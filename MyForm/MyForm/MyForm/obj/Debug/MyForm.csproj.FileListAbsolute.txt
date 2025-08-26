@@ -1,0 +1,39 @@
+C:\Users\PC602\source\repos\MyForm\MyForm\bin\Debug\MyForm.exe.config
+C:\Users\PC602\source\repos\MyForm\MyForm\bin\Debug\MyForm.exe
+C:\Users\PC602\source\repos\MyForm\MyForm\bin\Debug\MyForm.pdb
+C:\Users\PC602\source\repos\MyForm\MyForm\obj\Debug\MyForm.csproj.AssemblyReference.cache
+C:\Users\PC602\source\repos\MyForm\MyForm\obj\Debug\MyForm.Properties.Resources.resources
+C:\Users\PC602\source\repos\MyForm\MyForm\obj\Debug\MyForm.csproj.GenerateResource.cache
+C:\Users\PC602\source\repos\MyForm\MyForm\obj\Debug\MyForm.csproj.CoreCompileInputs.cache
+C:\Users\PC602\source\repos\MyForm\MyForm\obj\Debug\MyForm.exe
+C:\Users\PC602\source\repos\MyForm\MyForm\obj\Debug\MyForm.pdb
+C:\Users\PC602\source\repos\MyForm\MyForm\obj\Debug\MyForm.frmTrungTam.resources
+C:\Users\PC602\source\repos\MyForm\MyForm\obj\Debug\MyForm.frmTBGiangVien.resources
+C:\Users\PC602\source\repos\MyForm\MyForm\obj\Debug\MyForm.frmGiangVien.resources
+D:\Vương\Nam 3 Ki 1\MyForm\MyForm\MyForm\obj\Debug\MyForm.csproj.AssemblyReference.cache
+D:\Vương\Nam 3 Ki 1\MyForm\MyForm\MyForm\obj\Debug\MyForm.exe.config
+D:\Vương\Nam 3 Ki 1\MyForm\MyForm\MyForm\obj\Debug\MyForm.exe
+D:\Vương\Nam 3 Ki 1\MyForm\MyForm\MyForm\obj\Debug\MyForm.pdb
+C:\Users\PC602\Downloads\a\MyForm\MyForm\MyForm\obj\Debug\MyForm.csproj.AssemblyReference.cache
+C:\Users\PC602\Downloads\a\MyForm\MyForm\MyForm\obj\Debug\MyForm.frmSinhVien.resources
+C:\Users\PC602\Downloads\a\MyForm\MyForm\MyForm\obj\Debug\MyForm.frmTrungTam.resources
+C:\Users\PC602\Downloads\a\MyForm\MyForm\MyForm\obj\Debug\MyForm.frmTBGiangVien.resources
+C:\Users\PC602\Downloads\a\MyForm\MyForm\MyForm\obj\Debug\MyForm.frmGiangVien.resources
+C:\Users\PC602\Downloads\a\MyForm\MyForm\MyForm\obj\Debug\MyForm.Properties.Resources.resources
+C:\Users\PC602\Downloads\a\MyForm\MyForm\MyForm\obj\Debug\MyForm.csproj.GenerateResource.cache
+C:\Users\PC602\Downloads\a\MyForm\MyForm\MyForm\obj\Debug\MyForm.csproj.CoreCompileInputs.cache
+C:\Users\PC602\Downloads\a\MyForm\MyForm\MyForm\obj\Debug\MyForm.exe
+C:\Users\PC602\Downloads\a\MyForm\MyForm\MyForm\obj\Debug\MyForm.pdb
+C:\Users\PC602\Downloads\a\MyForm\MyForm\MyForm\bin\Debug\MyForm.exe.config
+C:\Users\PC602\Downloads\a\MyForm\MyForm\MyForm\bin\Debug\MyForm.exe
+C:\Users\PC602\Downloads\a\MyForm\MyForm\MyForm\bin\Debug\MyForm.pdb
+D:\Vương\Nam 3 Ki 1\MyForm\MyForm\MyForm\obj\Debug\MyForm.frmSinhVien.resources
+D:\Vương\Nam 3 Ki 1\MyForm\MyForm\MyForm\obj\Debug\MyForm.frmTrungTam.resources
+D:\Vương\Nam 3 Ki 1\MyForm\MyForm\MyForm\obj\Debug\MyForm.frmTBGiangVien.resources
+D:\Vương\Nam 3 Ki 1\MyForm\MyForm\MyForm\obj\Debug\MyForm.frmGiangVien.resources
+D:\Vương\Nam 3 Ki 1\MyForm\MyForm\MyForm\obj\Debug\MyForm.Properties.Resources.resources
+D:\Vương\Nam 3 Ki 1\MyForm\MyForm\MyForm\obj\Debug\MyForm.csproj.GenerateResource.cache
+D:\Vương\Nam 3 Ki 1\MyForm\MyForm\MyForm\obj\Debug\MyForm.csproj.CoreCompileInputs.cache
+D:\Vương\Nam 3 Ki 1\MyForm\MyForm\MyForm\bin\Debug\MyForm.exe.config
+D:\Vương\Nam 3 Ki 1\MyForm\MyForm\MyForm\bin\Debug\MyForm.exe
+D:\Vương\Nam 3 Ki 1\MyForm\MyForm\MyForm\bin\Debug\MyForm.pdb
