@@ -1,0 +1,14 @@
+D:\Vương\Nam 3 Ki 1\Phát triển ứng dụng desktop\BaiTapWinform\BaiTap3\obj\Debug\BaiTap3.csproj.AssemblyReference.cache
+D:\Vương\Nam 3 Ki 1\Phát triển ứng dụng desktop\BaiTapWinform\BaiTap3\obj\Debug\BaiTap3.frmChinh.resources
+D:\Vương\Nam 3 Ki 1\Phát triển ứng dụng desktop\BaiTapWinform\BaiTap3\obj\Debug\BaiTap3.Properties.Resources.resources
+D:\Vương\Nam 3 Ki 1\Phát triển ứng dụng desktop\BaiTapWinform\BaiTap3\obj\Debug\BaiTap3.csproj.GenerateResource.cache
+D:\Vương\Nam 3 Ki 1\Phát triển ứng dụng desktop\BaiTapWinform\BaiTap3\obj\Debug\BaiTap3.csproj.CoreCompileInputs.cache
+D:\Vương\Nam 3 Ki 1\Phát triển ứng dụng desktop\BaiTapWinform\BaiTap3\bin\Debug\BaiTap3.exe.config
+D:\Vương\Nam 3 Ki 1\Phát triển ứng dụng desktop\BaiTapWinform\BaiTap3\bin\Debug\BaiTap3.exe
+D:\Vương\Nam 3 Ki 1\Phát triển ứng dụng desktop\BaiTapWinform\BaiTap3\bin\Debug\BaiTap3.pdb
+D:\Vương\Nam 3 Ki 1\Phát triển ứng dụng desktop\BaiTapWinform\BaiTap3\obj\Debug\BaiTap3.exe
+D:\Vương\Nam 3 Ki 1\Phát triển ứng dụng desktop\BaiTapWinform\BaiTap3\obj\Debug\BaiTap3.pdb
+D:\Vương\Nam 3 Ki 1\Phát triển ứng dụng desktop\BaiTapWinform\BaiTap3\obj\Debug\BaiTap3.exe.config
+D:\Vương\Nam 3 Ki 1\Phát triển ứng dụng desktop\BaiTapWinform\BaiTap3\obj\Debug\BaiTap3.frmBai1.resources
+D:\Vương\Nam 3 Ki 1\Phát triển ứng dụng desktop\BaiTapWinform\BaiTap3\obj\Debug\BaiTap3.frmBai2.resources
+D:\Vương\Nam 3 Ki 1\Phát triển ứng dụng desktop\BaiTapWinform\BaiTap3\obj\Debug\BaiTap3.frmBai3.resources

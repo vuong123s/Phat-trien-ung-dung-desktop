@@ -30,5 +30,10 @@ namespace BaiTapWinform
 
             lblKetQua.Text = s.ToString();
         }
+
+        private void frmBai3_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

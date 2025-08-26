@@ -37,8 +37,8 @@
             this.txtSoB = new System.Windows.Forms.TextBox();
             this.txtSoN = new System.Windows.Forms.TextBox();
             this.groupBox1 = new System.Windows.Forms.GroupBox();
-            this.rdTong2So = new System.Windows.Forms.RadioButton();
             this.rdTong1N = new System.Windows.Forms.RadioButton();
+            this.rdTong2So = new System.Windows.Forms.RadioButton();
             this.btnKetQua = new System.Windows.Forms.Button();
             this.groupBox1.SuspendLayout();
             this.SuspendLayout();
@@ -125,6 +125,16 @@
             this.groupBox1.TabStop = false;
             this.groupBox1.Text = "Chọn phép tính";
             // 
+            // rdTong1N
+            // 
+            this.rdTong1N.AutoSize = true;
+            this.rdTong1N.Location = new System.Drawing.Point(49, 97);
+            this.rdTong1N.Name = "rdTong1N";
+            this.rdTong1N.Size = new System.Drawing.Size(132, 20);
+            this.rdTong1N.TabIndex = 1;
+            this.rdTong1N.Text = "Tính tổng 1 đến N";
+            this.rdTong1N.UseVisualStyleBackColor = true;
+            // 
             // rdTong2So
             // 
             this.rdTong2So.AutoSize = true;
@@ -136,16 +146,6 @@
             this.rdTong2So.TabStop = true;
             this.rdTong2So.Text = "Tính tổng của A, B";
             this.rdTong2So.UseVisualStyleBackColor = true;
-            // 
-            // rdTong1N
-            // 
-            this.rdTong1N.AutoSize = true;
-            this.rdTong1N.Location = new System.Drawing.Point(49, 97);
-            this.rdTong1N.Name = "rdTong1N";
-            this.rdTong1N.Size = new System.Drawing.Size(132, 20);
-            this.rdTong1N.TabIndex = 1;
-            this.rdTong1N.Text = "Tính tổng 1 đến N";
-            this.rdTong1N.UseVisualStyleBackColor = true;
             // 
             // btnKetQua
             // 
@@ -174,6 +174,7 @@
             this.Controls.Add(this.label1);
             this.Name = "frmBai3";
             this.Text = "Bài 3";
+            this.Load += new System.EventHandler(this.frmBai3_Load);
             this.groupBox1.ResumeLayout(false);
             this.groupBox1.PerformLayout();
             this.ResumeLayout(false);
