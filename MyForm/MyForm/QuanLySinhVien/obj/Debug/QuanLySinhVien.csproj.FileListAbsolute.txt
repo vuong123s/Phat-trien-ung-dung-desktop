@@ -1,0 +1,11 @@
+D:\Vương\Nam 3 Ki 1\Phát triển ứng dụng desktop\MyForm\MyForm\QuanLySinhVien\bin\Debug\QuanLySinhVien.exe.config
+D:\Vương\Nam 3 Ki 1\Phát triển ứng dụng desktop\MyForm\MyForm\QuanLySinhVien\bin\Debug\QuanLySinhVien.exe
+D:\Vương\Nam 3 Ki 1\Phát triển ứng dụng desktop\MyForm\MyForm\QuanLySinhVien\bin\Debug\QuanLySinhVien.pdb
+D:\Vương\Nam 3 Ki 1\Phát triển ứng dụng desktop\MyForm\MyForm\QuanLySinhVien\obj\Debug\QuanLySinhVien.csproj.AssemblyReference.cache
+D:\Vương\Nam 3 Ki 1\Phát triển ứng dụng desktop\MyForm\MyForm\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmChinh.resources
+D:\Vương\Nam 3 Ki 1\Phát triển ứng dụng desktop\MyForm\MyForm\QuanLySinhVien\obj\Debug\QuanLySinhVien.Properties.Resources.resources
+D:\Vương\Nam 3 Ki 1\Phát triển ứng dụng desktop\MyForm\MyForm\QuanLySinhVien\obj\Debug\QuanLySinhVien.csproj.GenerateResource.cache
+D:\Vương\Nam 3 Ki 1\Phát triển ứng dụng desktop\MyForm\MyForm\QuanLySinhVien\obj\Debug\QuanLySinhVien.csproj.CoreCompileInputs.cache
+D:\Vương\Nam 3 Ki 1\Phát triển ứng dụng desktop\MyForm\MyForm\QuanLySinhVien\obj\Debug\QuanLySinhVien.exe
+D:\Vương\Nam 3 Ki 1\Phát triển ứng dụng desktop\MyForm\MyForm\QuanLySinhVien\obj\Debug\QuanLySinhVien.pdb
+D:\Vương\Nam 3 Ki 1\Phát triển ứng dụng desktop\MyForm\MyForm\QuanLySinhVien\obj\Debug\QuanLySinhVien.exe.config

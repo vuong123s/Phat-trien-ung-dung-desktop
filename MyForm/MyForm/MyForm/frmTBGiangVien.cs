@@ -17,6 +17,13 @@ namespace MyForm
             InitializeComponent();
         }
 
+        public frmTBGiangVien(GiangVien gv)
+        {
+            InitializeComponent();
+            this.Text = "Thông tin giảng viên";
+            lblThongBao.Text = gv.ToString();
+        }
+
         private void frmTBGiangVien_Load(object sender, EventArgs e)
         {
             

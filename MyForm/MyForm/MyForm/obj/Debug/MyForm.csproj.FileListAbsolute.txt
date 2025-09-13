@@ -37,3 +37,20 @@ D:\Vương\Nam 3 Ki 1\MyForm\MyForm\MyForm\obj\Debug\MyForm.csproj.CoreCompileIn
 D:\Vương\Nam 3 Ki 1\MyForm\MyForm\MyForm\bin\Debug\MyForm.exe.config
 D:\Vương\Nam 3 Ki 1\MyForm\MyForm\MyForm\bin\Debug\MyForm.exe
 D:\Vương\Nam 3 Ki 1\MyForm\MyForm\MyForm\bin\Debug\MyForm.pdb
+D:\Vương\Nam 3 Ki 1\Phát triển ứng dụng desktop\MyForm\MyForm\MyForm\obj\Debug\MyForm.csproj.AssemblyReference.cache
+D:\Vương\Nam 3 Ki 1\Phát triển ứng dụng desktop\MyForm\MyForm\MyForm\obj\Debug\MyForm.exe.config
+D:\Vương\Nam 3 Ki 1\Phát triển ứng dụng desktop\MyForm\MyForm\MyForm\obj\Debug\MyForm.exe
+D:\Vương\Nam 3 Ki 1\Phát triển ứng dụng desktop\MyForm\MyForm\MyForm\obj\Debug\MyForm.pdb
+D:\Vương\Nam 3 Ki 1\Phát triển ứng dụng desktop\MyForm\MyForm\MyForm\bin\Debug\MyForm.exe.config
+D:\Vương\Nam 3 Ki 1\Phát triển ứng dụng desktop\MyForm\MyForm\MyForm\bin\Debug\MyForm.exe
+D:\Vương\Nam 3 Ki 1\Phát triển ứng dụng desktop\MyForm\MyForm\MyForm\bin\Debug\MyForm.pdb
+D:\Vương\Nam 3 Ki 1\Phát triển ứng dụng desktop\MyForm\MyForm\MyForm\obj\Debug\MyForm.frmSinhVien.resources
+D:\Vương\Nam 3 Ki 1\Phát triển ứng dụng desktop\MyForm\MyForm\MyForm\obj\Debug\MyForm.frmTrungTam.resources
+D:\Vương\Nam 3 Ki 1\Phát triển ứng dụng desktop\MyForm\MyForm\MyForm\obj\Debug\MyForm.frmTBGiangVien.resources
+D:\Vương\Nam 3 Ki 1\Phát triển ứng dụng desktop\MyForm\MyForm\MyForm\obj\Debug\MyForm.frmGiangVien.resources
+D:\Vương\Nam 3 Ki 1\Phát triển ứng dụng desktop\MyForm\MyForm\MyForm\obj\Debug\MyForm.Properties.Resources.resources
+D:\Vương\Nam 3 Ki 1\Phát triển ứng dụng desktop\MyForm\MyForm\MyForm\obj\Debug\MyForm.csproj.GenerateResource.cache
+D:\Vương\Nam 3 Ki 1\Phát triển ứng dụng desktop\MyForm\MyForm\MyForm\obj\Debug\MyForm.csproj.CoreCompileInputs.cache
+D:\Vương\Nam 3 Ki 1\Phát triển ứng dụng desktop\MyForm\MyForm\MyForm\obj\Debug\MyForm.frmTimGV.resources
+D:\Vương\Nam 3 Ki 1\Phát triển ứng dụng desktop\MyForm\MyForm\MyForm\obj\Debug\MyForm.frmTuyChon.resources
+D:\Vương\Nam 3 Ki 1\Phát triển ứng dụng desktop\MyForm\MyForm\MyForm\obj\Debug\MyForm.frmDSSV.resources

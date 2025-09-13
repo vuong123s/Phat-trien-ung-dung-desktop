@@ -1,62 +1,94 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\MyForm\\MyForm\\",
+  "WorkspaceRootPath": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\MyForm\\MyForm\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EF2C57BE-E146-4919-BDCD-D348A9FDDB21}|MyForm\\MyForm.csproj|D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\MyForm\\MyForm\\myform\\frmsinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EF2C57BE-E146-4919-BDCD-D348A9FDDB21}|MyForm\\MyForm.csproj|solutionrelative:myform\\frmsinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D9BCA65C-B229-4EC1-8AE1-2A96880440A7}|QuanLySinhVien\\QuanLySinhVien.csproj|d:\\v\u01B0\u01A1ng\\nam 3 ki 1\\ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\myform\\myform\\quanlysinhvien\\danhsachsinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9BCA65C-B229-4EC1-8AE1-2A96880440A7}|QuanLySinhVien\\QuanLySinhVien.csproj|solutionrelative:quanlysinhvien\\danhsachsinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EF2C57BE-E146-4919-BDCD-D348A9FDDB21}|MyForm\\MyForm.csproj|D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\MyForm\\MyForm\\myform\\frmsinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{EF2C57BE-E146-4919-BDCD-D348A9FDDB21}|MyForm\\MyForm.csproj|solutionrelative:myform\\frmsinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{D9BCA65C-B229-4EC1-8AE1-2A96880440A7}|QuanLySinhVien\\QuanLySinhVien.csproj|d:\\v\u01B0\u01A1ng\\nam 3 ki 1\\ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\myform\\myform\\quanlysinhvien\\frmchinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9BCA65C-B229-4EC1-8AE1-2A96880440A7}|QuanLySinhVien\\QuanLySinhVien.csproj|solutionrelative:quanlysinhvien\\frmchinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EF2C57BE-E146-4919-BDCD-D348A9FDDB21}|MyForm\\MyForm.csproj|d:\\v\u01B0\u01A1ng\\nam 3 ki 1\\myform\\myform\\myform\\quanlysinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D9BCA65C-B229-4EC1-8AE1-2A96880440A7}|QuanLySinhVien\\QuanLySinhVien.csproj|d:\\v\u01B0\u01A1ng\\nam 3 ki 1\\ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\myform\\myform\\quanlysinhvien\\frmchinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D9BCA65C-B229-4EC1-8AE1-2A96880440A7}|QuanLySinhVien\\QuanLySinhVien.csproj|solutionrelative:quanlysinhvien\\frmchinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9BCA65C-B229-4EC1-8AE1-2A96880440A7}|QuanLySinhVien\\QuanLySinhVien.csproj|d:\\v\u01B0\u01A1ng\\nam 3 ki 1\\ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\myform\\myform\\quanlysinhvien\\sinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9BCA65C-B229-4EC1-8AE1-2A96880440A7}|QuanLySinhVien\\QuanLySinhVien.csproj|solutionrelative:quanlysinhvien\\sinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF2C57BE-E146-4919-BDCD-D348A9FDDB21}|MyForm\\MyForm.csproj|D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\MyForm\\MyForm\\myform\\quanlysinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EF2C57BE-E146-4919-BDCD-D348A9FDDB21}|MyForm\\MyForm.csproj|solutionrelative:myform\\quanlysinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EF2C57BE-E146-4919-BDCD-D348A9FDDB21}|MyForm\\MyForm.csproj|D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\MyForm\\MyForm\\myform\\form2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EF2C57BE-E146-4919-BDCD-D348A9FDDB21}|MyForm\\MyForm.csproj|solutionrelative:myform\\form2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EF2C57BE-E146-4919-BDCD-D348A9FDDB21}|MyForm\\MyForm.csproj|d:\\v\u01B0\u01A1ng\\nam 3 ki 1\\myform\\myform\\myform\\sinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EF2C57BE-E146-4919-BDCD-D348A9FDDB21}|MyForm\\MyForm.csproj|D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\MyForm\\MyForm\\myform\\sinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EF2C57BE-E146-4919-BDCD-D348A9FDDB21}|MyForm\\MyForm.csproj|solutionrelative:myform\\sinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EF2C57BE-E146-4919-BDCD-D348A9FDDB21}|MyForm\\MyForm.csproj|D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\MyForm\\MyForm\\myform\\danhsachhocphan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EF2C57BE-E146-4919-BDCD-D348A9FDDB21}|MyForm\\MyForm.csproj|solutionrelative:myform\\danhsachhocphan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EF2C57BE-E146-4919-BDCD-D348A9FDDB21}|MyForm\\MyForm.csproj|D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\MyForm\\MyForm\\myform\\frmsinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF2C57BE-E146-4919-BDCD-D348A9FDDB21}|MyForm\\MyForm.csproj|solutionrelative:myform\\frmsinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EF2C57BE-E146-4919-BDCD-D348A9FDDB21}|MyForm\\MyForm.csproj|D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\MyForm\\MyForm\\myform\\hocphan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EF2C57BE-E146-4919-BDCD-D348A9FDDB21}|MyForm\\MyForm.csproj|solutionrelative:myform\\hocphan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EF2C57BE-E146-4919-BDCD-D348A9FDDB21}|MyForm\\MyForm.csproj|D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\MyForm\\MyForm\\myform\\frmsinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EF2C57BE-E146-4919-BDCD-D348A9FDDB21}|MyForm\\MyForm.csproj|solutionrelative:myform\\frmsinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EF2C57BE-E146-4919-BDCD-D348A9FDDB21}|MyForm\\MyForm.csproj|D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\MyForm\\MyForm\\myform\\frmgiangvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EF2C57BE-E146-4919-BDCD-D348A9FDDB21}|MyForm\\MyForm.csproj|d:\\v\u01B0\u01A1ng\\nam 3 ki 1\\ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\myform\\myform\\myform\\frmtuychon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF2C57BE-E146-4919-BDCD-D348A9FDDB21}|MyForm\\MyForm.csproj|solutionrelative:myform\\frmtuychon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF2C57BE-E146-4919-BDCD-D348A9FDDB21}|MyForm\\MyForm.csproj|d:\\v\u01B0\u01A1ng\\nam 3 ki 1\\ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\myform\\myform\\myform\\frmtuychon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EF2C57BE-E146-4919-BDCD-D348A9FDDB21}|MyForm\\MyForm.csproj|solutionrelative:myform\\frmtuychon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF2C57BE-E146-4919-BDCD-D348A9FDDB21}|MyForm\\MyForm.csproj|d:\\v\u01B0\u01A1ng\\nam 3 ki 1\\ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\myform\\myform\\myform\\frmtimgv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EF2C57BE-E146-4919-BDCD-D348A9FDDB21}|MyForm\\MyForm.csproj|solutionrelative:myform\\frmtimgv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF2C57BE-E146-4919-BDCD-D348A9FDDB21}|MyForm\\MyForm.csproj|d:\\v\u01B0\u01A1ng\\nam 3 ki 1\\ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\myform\\myform\\myform\\frmgiangvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EF2C57BE-E146-4919-BDCD-D348A9FDDB21}|MyForm\\MyForm.csproj|solutionrelative:myform\\frmgiangvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EF2C57BE-E146-4919-BDCD-D348A9FDDB21}|MyForm\\MyForm.csproj|d:\\v\u01B0\u01A1ng\\nam 3 ki 1\\myform\\myform\\myform\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EF2C57BE-E146-4919-BDCD-D348A9FDDB21}|MyForm\\MyForm.csproj|solutionrelative:myform\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EF2C57BE-E146-4919-BDCD-D348A9FDDB21}|MyForm\\MyForm.csproj|D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\MyForm\\MyForm\\myform\\frmgiangvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{EF2C57BE-E146-4919-BDCD-D348A9FDDB21}|MyForm\\MyForm.csproj|solutionrelative:myform\\frmgiangvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EF2C57BE-E146-4919-BDCD-D348A9FDDB21}|MyForm\\MyForm.csproj|D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\MyForm\\MyForm\\myform\\giangvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EF2C57BE-E146-4919-BDCD-D348A9FDDB21}|MyForm\\MyForm.csproj|solutionrelative:myform\\giangvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EF2C57BE-E146-4919-BDCD-D348A9FDDB21}|MyForm\\MyForm.csproj|D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\MyForm\\MyForm\\myform\\frmtbgiangvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{EF2C57BE-E146-4919-BDCD-D348A9FDDB21}|MyForm\\MyForm.csproj|d:\\v\u01B0\u01A1ng\\nam 3 ki 1\\ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\myform\\myform\\myform\\frmtbgiangvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{EF2C57BE-E146-4919-BDCD-D348A9FDDB21}|MyForm\\MyForm.csproj|solutionrelative:myform\\frmtbgiangvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EF2C57BE-E146-4919-BDCD-D348A9FDDB21}|MyForm\\MyForm.csproj|D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\MyForm\\MyForm\\myform\\frmtbgiangvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EF2C57BE-E146-4919-BDCD-D348A9FDDB21}|MyForm\\MyForm.csproj|solutionrelative:myform\\frmtbgiangvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EF2C57BE-E146-4919-BDCD-D348A9FDDB21}|MyForm\\MyForm.csproj|d:\\v\u01B0\u01A1ng\\nam 3 ki 1\\ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\myform\\myform\\myform\\frmdssv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EF2C57BE-E146-4919-BDCD-D348A9FDDB21}|MyForm\\MyForm.csproj|solutionrelative:myform\\frmdssv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EF2C57BE-E146-4919-BDCD-D348A9FDDB21}|MyForm\\MyForm.csproj|D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\MyForm\\MyForm\\myform\\frmtrungtam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EF2C57BE-E146-4919-BDCD-D348A9FDDB21}|MyForm\\MyForm.csproj|d:\\v\u01B0\u01A1ng\\nam 3 ki 1\\ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\myform\\myform\\myform\\frmdssv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF2C57BE-E146-4919-BDCD-D348A9FDDB21}|MyForm\\MyForm.csproj|solutionrelative:myform\\frmdssv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF2C57BE-E146-4919-BDCD-D348A9FDDB21}|MyForm\\MyForm.csproj|d:\\v\u01B0\u01A1ng\\nam 3 ki 1\\ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\myform\\myform\\myform\\frmtimgv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF2C57BE-E146-4919-BDCD-D348A9FDDB21}|MyForm\\MyForm.csproj|solutionrelative:myform\\frmtimgv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF2C57BE-E146-4919-BDCD-D348A9FDDB21}|MyForm\\MyForm.csproj|D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\MyForm\\MyForm\\myform\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF2C57BE-E146-4919-BDCD-D348A9FDDB21}|MyForm\\MyForm.csproj|solutionrelative:myform\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF2C57BE-E146-4919-BDCD-D348A9FDDB21}|MyForm\\MyForm.csproj|d:\\v\u01B0\u01A1ng\\nam 3 ki 1\\ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\myform\\myform\\myform\\frmgiangvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EF2C57BE-E146-4919-BDCD-D348A9FDDB21}|MyForm\\MyForm.csproj|solutionrelative:myform\\frmgiangvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF2C57BE-E146-4919-BDCD-D348A9FDDB21}|MyForm\\MyForm.csproj|D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\MyForm\\MyForm\\myform\\hocphan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF2C57BE-E146-4919-BDCD-D348A9FDDB21}|MyForm\\MyForm.csproj|solutionrelative:myform\\hocphan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF2C57BE-E146-4919-BDCD-D348A9FDDB21}|MyForm\\MyForm.csproj|D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\MyForm\\MyForm\\myform\\quanlygiangvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF2C57BE-E146-4919-BDCD-D348A9FDDB21}|MyForm\\MyForm.csproj|solutionrelative:myform\\quanlygiangvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF2C57BE-E146-4919-BDCD-D348A9FDDB21}|MyForm\\MyForm.csproj|D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\MyForm\\MyForm\\myform\\frmtrungtam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EF2C57BE-E146-4919-BDCD-D348A9FDDB21}|MyForm\\MyForm.csproj|solutionrelative:myform\\frmtrungtam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF2C57BE-E146-4919-BDCD-D348A9FDDB21}|MyForm\\MyForm.csproj|D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\MyForm\\MyForm\\myform\\form2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF2C57BE-E146-4919-BDCD-D348A9FDDB21}|MyForm\\MyForm.csproj|solutionrelative:myform\\form2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -66,54 +98,204 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "SinhVien.cs",
-              "DocumentMoniker": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\MyForm\\MyForm\\MyForm\\SinhVien.cs",
-              "RelativeDocumentMoniker": "MyForm\\SinhVien.cs",
-              "ToolTip": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\MyForm\\MyForm\\MyForm\\SinhVien.cs",
-              "RelativeToolTip": "MyForm\\SinhVien.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAXAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "DanhSachSinhVien.cs",
+              "DocumentMoniker": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\MyForm\\MyForm\\QuanLySinhVien\\DanhSachSinhVien.cs",
+              "RelativeDocumentMoniker": "QuanLySinhVien\\DanhSachSinhVien.cs",
+              "ToolTip": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\MyForm\\MyForm\\QuanLySinhVien\\DanhSachSinhVien.cs",
+              "RelativeToolTip": "QuanLySinhVien\\DanhSachSinhVien.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAQwCIAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-25T01:23:20.632Z",
+              "WhenOpened": "2025-09-07T07:48:58.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmChinh.cs",
+              "DocumentMoniker": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\MyForm\\MyForm\\QuanLySinhVien\\frmChinh.cs",
+              "RelativeDocumentMoniker": "QuanLySinhVien\\frmChinh.cs",
+              "ToolTip": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\MyForm\\MyForm\\QuanLySinhVien\\frmChinh.cs",
+              "RelativeToolTip": "QuanLySinhVien\\frmChinh.cs",
+              "ViewState": "AgIAAG8AAAAAAAAAAAAgwFYAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-07T06:49:52.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SinhVien.cs",
+              "DocumentMoniker": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\MyForm\\MyForm\\QuanLySinhVien\\SinhVien.cs",
+              "RelativeDocumentMoniker": "QuanLySinhVien\\SinhVien.cs",
+              "ToolTip": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\MyForm\\MyForm\\QuanLySinhVien\\SinhVien.cs",
+              "RelativeToolTip": "QuanLySinhVien\\SinhVien.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAywB4AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-07T05:54:47.283Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "frmChinh.cs [Design]",
+              "DocumentMoniker": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\MyForm\\MyForm\\QuanLySinhVien\\frmChinh.cs",
+              "RelativeDocumentMoniker": "QuanLySinhVien\\frmChinh.cs",
+              "ToolTip": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\MyForm\\MyForm\\QuanLySinhVien\\frmChinh.cs [Design]",
+              "RelativeToolTip": "QuanLySinhVien\\frmChinh.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-07T05:36:37.08Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "frmTimGV.cs",
+              "DocumentMoniker": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\MyForm\\MyForm\\MyForm\\frmTimGV.cs",
+              "RelativeDocumentMoniker": "MyForm\\frmTimGV.cs",
+              "ToolTip": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\MyForm\\MyForm\\MyForm\\frmTimGV.cs",
+              "RelativeToolTip": "MyForm\\frmTimGV.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAlwF4AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-07T03:27:19.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "frmDSSV.cs",
+              "DocumentMoniker": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\MyForm\\MyForm\\MyForm\\frmDSSV.cs",
+              "RelativeDocumentMoniker": "MyForm\\frmDSSV.cs",
+              "ToolTip": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\MyForm\\MyForm\\MyForm\\frmDSSV.cs",
+              "RelativeToolTip": "MyForm\\frmDSSV.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAowD8AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-07T03:16:34.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "frmGiangVien.cs",
+              "DocumentMoniker": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\MyForm\\MyForm\\MyForm\\frmGiangVien.cs",
+              "RelativeDocumentMoniker": "MyForm\\frmGiangVien.cs",
+              "ToolTip": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\MyForm\\MyForm\\MyForm\\frmGiangVien.cs",
+              "RelativeToolTip": "MyForm\\frmGiangVien.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAwwDYAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-07T03:15:14.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "frmDSSV.cs [Design]",
+              "DocumentMoniker": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\MyForm\\MyForm\\MyForm\\frmDSSV.cs",
+              "RelativeDocumentMoniker": "MyForm\\frmDSSV.cs",
+              "ToolTip": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\MyForm\\MyForm\\MyForm\\frmDSSV.cs [Design]",
+              "RelativeToolTip": "MyForm\\frmDSSV.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-07T03:10:46.355Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "frmTBGiangVien.cs [Design]",
+              "DocumentMoniker": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\MyForm\\MyForm\\MyForm\\frmTBGiangVien.cs",
+              "RelativeDocumentMoniker": "MyForm\\frmTBGiangVien.cs",
+              "ToolTip": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\MyForm\\MyForm\\MyForm\\frmTBGiangVien.cs [Design]",
+              "RelativeToolTip": "MyForm\\frmTBGiangVien.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-07T00:42:13.449Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "frmTuyChon.cs",
+              "DocumentMoniker": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\MyForm\\MyForm\\MyForm\\frmTuyChon.cs",
+              "RelativeDocumentMoniker": "MyForm\\frmTuyChon.cs",
+              "ToolTip": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\MyForm\\MyForm\\MyForm\\frmTuyChon.cs",
+              "RelativeToolTip": "MyForm\\frmTuyChon.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAqwGYAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-07T00:06:44.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "frmTimGV.cs [Design]",
+              "DocumentMoniker": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\MyForm\\MyForm\\MyForm\\frmTimGV.cs",
+              "RelativeDocumentMoniker": "MyForm\\frmTimGV.cs",
+              "ToolTip": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\MyForm\\MyForm\\MyForm\\frmTimGV.cs [Design]",
+              "RelativeToolTip": "MyForm\\frmTimGV.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-06T23:26:12.937Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "frmGiangVien.cs [Design]",
+              "DocumentMoniker": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\MyForm\\MyForm\\MyForm\\frmGiangVien.cs",
+              "RelativeDocumentMoniker": "MyForm\\frmGiangVien.cs",
+              "ToolTip": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\MyForm\\MyForm\\MyForm\\frmGiangVien.cs [Design]",
+              "RelativeToolTip": "MyForm\\frmGiangVien.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-06T23:26:08.104Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "frmTuyChon.cs [Design]",
+              "DocumentMoniker": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\MyForm\\MyForm\\MyForm\\frmTuyChon.cs",
+              "RelativeDocumentMoniker": "MyForm\\frmTuyChon.cs",
+              "ToolTip": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\MyForm\\MyForm\\MyForm\\frmTuyChon.cs [Design]",
+              "RelativeToolTip": "MyForm\\frmTuyChon.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-06T23:25:53.339Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "QuanLySinhVien.cs",
-              "DocumentMoniker": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\MyForm\\MyForm\\MyForm\\QuanLySinhVien.cs",
+              "DocumentMoniker": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\MyForm\\MyForm\\MyForm\\QuanLySinhVien.cs",
               "RelativeDocumentMoniker": "MyForm\\QuanLySinhVien.cs",
-              "ToolTip": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\MyForm\\MyForm\\MyForm\\QuanLySinhVien.cs",
+              "ToolTip": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\MyForm\\MyForm\\MyForm\\QuanLySinhVien.cs",
               "RelativeToolTip": "MyForm\\QuanLySinhVien.cs",
-              "ViewState": "AgIAAEkAAAAAAAAAAAAqwFwAAAAuAAAAAAAAAA==",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAgwEUAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-24T21:05:17.59Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
               "Title": "frmSinhVien.cs",
-              "DocumentMoniker": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\MyForm\\MyForm\\MyForm\\frmSinhVien.cs",
+              "DocumentMoniker": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\MyForm\\MyForm\\MyForm\\frmSinhVien.cs",
               "RelativeDocumentMoniker": "MyForm\\frmSinhVien.cs",
-              "ToolTip": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\MyForm\\MyForm\\MyForm\\frmSinhVien.cs",
+              "ToolTip": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\MyForm\\MyForm\\MyForm\\frmSinhVien.cs",
               "RelativeToolTip": "MyForm\\frmSinhVien.cs",
-              "ViewState": "AgIAAGEAAAAAAAAAAAAAwHIAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAHsAAAAAAAAAAAAtwH4AAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-24T12:36:15.009Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
               "Title": "frmSinhVien.cs [Design]",
-              "DocumentMoniker": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\MyForm\\MyForm\\MyForm\\frmSinhVien.cs",
+              "DocumentMoniker": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\MyForm\\MyForm\\MyForm\\frmSinhVien.cs",
               "RelativeDocumentMoniker": "MyForm\\frmSinhVien.cs",
-              "ToolTip": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\MyForm\\MyForm\\MyForm\\frmSinhVien.cs [Design]",
+              "ToolTip": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\MyForm\\MyForm\\MyForm\\frmSinhVien.cs [Design]",
               "RelativeToolTip": "MyForm\\frmSinhVien.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-24T12:35:58.951Z",
@@ -121,11 +303,37 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
+              "Title": "SinhVien.cs",
+              "DocumentMoniker": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\MyForm\\MyForm\\MyForm\\SinhVien.cs",
+              "RelativeDocumentMoniker": "MyForm\\SinhVien.cs",
+              "ToolTip": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\MyForm\\MyForm\\MyForm\\SinhVien.cs",
+              "RelativeToolTip": "MyForm\\SinhVien.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAwAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T01:23:20.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "QuanLyGiangVien.cs",
+              "DocumentMoniker": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\MyForm\\MyForm\\MyForm\\QuanLyGiangVien.cs",
+              "RelativeDocumentMoniker": "MyForm\\QuanLyGiangVien.cs",
+              "ToolTip": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\MyForm\\MyForm\\MyForm\\QuanLyGiangVien.cs",
+              "RelativeToolTip": "MyForm\\QuanLyGiangVien.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAASwGoAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-06T13:04:08.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
               "Title": "Form2.Designer.cs",
-              "DocumentMoniker": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\MyForm\\MyForm\\MyForm\\Form2.Designer.cs",
+              "DocumentMoniker": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\MyForm\\MyForm\\MyForm\\Form2.Designer.cs",
               "RelativeDocumentMoniker": "MyForm\\Form2.Designer.cs",
-              "ToolTip": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\MyForm\\MyForm\\MyForm\\Form2.Designer.cs",
+              "ToolTip": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\MyForm\\MyForm\\MyForm\\Form2.Designer.cs",
               "RelativeToolTip": "MyForm\\Form2.Designer.cs",
               "ViewState": "AgIAAAIAAAAAAAAAAAA7wD4AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -134,113 +342,40 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 18,
               "Title": "HocPhan.cs",
-              "DocumentMoniker": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\MyForm\\MyForm\\MyForm\\HocPhan.cs",
+              "DocumentMoniker": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\MyForm\\MyForm\\MyForm\\HocPhan.cs",
               "RelativeDocumentMoniker": "MyForm\\HocPhan.cs",
-              "ToolTip": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\MyForm\\MyForm\\MyForm\\HocPhan.cs",
+              "ToolTip": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\MyForm\\MyForm\\MyForm\\HocPhan.cs",
               "RelativeToolTip": "MyForm\\HocPhan.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAxwBEAAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAuwBEAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-23T01:01:46.396Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "DanhSachHocPhan.cs",
-              "DocumentMoniker": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\MyForm\\MyForm\\MyForm\\DanhSachHocPhan.cs",
-              "RelativeDocumentMoniker": "MyForm\\DanhSachHocPhan.cs",
-              "ToolTip": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\MyForm\\MyForm\\MyForm\\DanhSachHocPhan.cs",
-              "RelativeToolTip": "MyForm\\DanhSachHocPhan.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAAwBsAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-23T01:01:46.6Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "GiangVien.cs",
-              "DocumentMoniker": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\MyForm\\MyForm\\MyForm\\GiangVien.cs",
-              "RelativeDocumentMoniker": "MyForm\\GiangVien.cs",
-              "ToolTip": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\MyForm\\MyForm\\MyForm\\GiangVien.cs",
-              "RelativeToolTip": "MyForm\\GiangVien.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-23T01:01:46.602Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "frmGiangVien.cs [Design]",
-              "DocumentMoniker": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\MyForm\\MyForm\\MyForm\\frmGiangVien.cs",
-              "RelativeDocumentMoniker": "MyForm\\frmGiangVien.cs",
-              "ToolTip": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\MyForm\\MyForm\\MyForm\\frmGiangVien.cs [Design]",
-              "RelativeToolTip": "MyForm\\frmGiangVien.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-23T01:01:46.738Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "frmTBGiangVien.cs [Design]",
-              "DocumentMoniker": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\MyForm\\MyForm\\MyForm\\frmTBGiangVien.cs",
-              "RelativeDocumentMoniker": "MyForm\\frmTBGiangVien.cs",
-              "ToolTip": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\MyForm\\MyForm\\MyForm\\frmTBGiangVien.cs [Design]",
-              "RelativeToolTip": "MyForm\\frmTBGiangVien.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-23T01:01:46.758Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "frmGiangVien.cs",
-              "DocumentMoniker": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\MyForm\\MyForm\\MyForm\\frmGiangVien.cs",
-              "RelativeDocumentMoniker": "MyForm\\frmGiangVien.cs",
-              "ToolTip": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\MyForm\\MyForm\\MyForm\\frmGiangVien.cs",
-              "RelativeToolTip": "MyForm\\frmGiangVien.cs",
-              "ViewState": "AgIAAFAAAAAAAAAAAAArwFoAAABCAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-23T01:01:46.761Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "frmTBGiangVien.cs",
-              "DocumentMoniker": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\MyForm\\MyForm\\MyForm\\frmTBGiangVien.cs",
-              "RelativeDocumentMoniker": "MyForm\\frmTBGiangVien.cs",
-              "ToolTip": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\MyForm\\MyForm\\MyForm\\frmTBGiangVien.cs",
-              "RelativeToolTip": "MyForm\\frmTBGiangVien.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAADgvxUAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-23T01:01:46.762Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 16,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\MyForm\\MyForm\\MyForm\\Program.cs",
+              "DocumentMoniker": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\MyForm\\MyForm\\MyForm\\Program.cs",
               "RelativeDocumentMoniker": "MyForm\\Program.cs",
-              "ToolTip": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\MyForm\\MyForm\\MyForm\\Program.cs",
+              "ToolTip": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\MyForm\\MyForm\\MyForm\\Program.cs",
               "RelativeToolTip": "MyForm\\Program.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAewBMAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAewBIAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-23T01:01:46.764Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 20,
               "Title": "frmTrungTam.cs",
-              "DocumentMoniker": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\MyForm\\MyForm\\MyForm\\frmTrungTam.cs",
+              "DocumentMoniker": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\MyForm\\MyForm\\MyForm\\frmTrungTam.cs",
               "RelativeDocumentMoniker": "MyForm\\frmTrungTam.cs",
-              "ToolTip": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\MyForm\\MyForm\\MyForm\\frmTrungTam.cs",
+              "ToolTip": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\MyForm\\MyForm\\MyForm\\frmTrungTam.cs",
               "RelativeToolTip": "MyForm\\frmTrungTam.cs",
-              "ViewState": "AQIAAD0AAAAAAAAAAAAjwFkAAAA+AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAjwFkAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-23T01:01:46.765Z"
             }
           ]

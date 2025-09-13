@@ -127,6 +127,7 @@ namespace MyForm
             qlsv = new QuanLySinhVien();
             qlsv.DocTuFile("DanhSachSV.txt");
             LoadListView();
+            tsslSoSV.Text = "" + qlsv.dsSinhVien.Count;
         }
 
         private void btnMacDinh_Click(object sender, EventArgs e)
@@ -185,6 +186,56 @@ namespace MyForm
                     this.LoadListView();
                 }
             }
+        }
+
+        private void btnBrowse_Click(object sender, EventArgs e)
+        {
+            using (OpenFileDialog openFileDialog = new OpenFileDialog())
+            {
+                // Định dạng hộp thoại
+                openFileDialog.Title = "Chọn hình ảnh";
+                openFileDialog.Filter = "Image Files|*.jpg;*.jpeg;*.png;*.gif;*.bmp";
+                openFileDialog.FilterIndex = 1;
+                openFileDialog.RestoreDirectory = true;
+
+                if (openFileDialog.ShowDialog() == DialogResult.OK)
+                {
+                    try
+                    {
+                        pbHinh.Image = Image.FromFile(openFileDialog.FileName);
+                    }
+                    catch (Exception ex)
+                    {
+                        MessageBox.Show($"Lỗi khi tải hình ảnh: {ex.Message}", "Lỗi",
+                            MessageBoxButtons.OK, MessageBoxIcon.Error);
+                    }
+                }
+            }
+        }
+
+        private void toolStripStatusLabel1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void tsslSoSV_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void mởTậpTinToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void themToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void groupboxDSSV_Enter(object sender, EventArgs e)
+        {
+
         }
     }
 }

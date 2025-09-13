@@ -1,0 +1,175 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\AppXoSO\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4675854F-ABC6-49E9-A2C9-535A21784185}|AppXoSO\\AppXoSO.csproj|d:\\v\u01B0\u01A1ng\\nam 3 ki 1\\appxoso\\appxoso\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4675854F-ABC6-49E9-A2C9-535A21784185}|AppXoSO\\AppXoSO.csproj|solutionrelative:appxoso\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4675854F-ABC6-49E9-A2C9-535A21784185}|AppXoSO\\AppXoSO.csproj|D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\AppXoSO\\appxoso\\formchitiet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4675854F-ABC6-49E9-A2C9-535A21784185}|AppXoSO\\AppXoSO.csproj|solutionrelative:appxoso\\formchitiet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4675854F-ABC6-49E9-A2C9-535A21784185}|AppXoSO\\AppXoSO.csproj|D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\AppXoSO\\appxoso\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4675854F-ABC6-49E9-A2C9-535A21784185}|AppXoSO\\AppXoSO.csproj|solutionrelative:appxoso\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4675854F-ABC6-49E9-A2C9-535A21784185}|AppXoSO\\AppXoSO.csproj|D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\AppXoSO\\appxoso\\formchitiet.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4675854F-ABC6-49E9-A2C9-535A21784185}|AppXoSO\\AppXoSO.csproj|solutionrelative:appxoso\\formchitiet.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4675854F-ABC6-49E9-A2C9-535A21784185}|AppXoSO\\AppXoSO.csproj|D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\AppXoSO\\appxoso\\ketquaxoso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4675854F-ABC6-49E9-A2C9-535A21784185}|AppXoSO\\AppXoSO.csproj|solutionrelative:appxoso\\ketquaxoso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4675854F-ABC6-49E9-A2C9-535A21784185}|AppXoSO\\AppXoSO.csproj|D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\AppXoSO\\appxoso\\xulyxoso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4675854F-ABC6-49E9-A2C9-535A21784185}|AppXoSO\\AppXoSO.csproj|solutionrelative:appxoso\\xulyxoso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4675854F-ABC6-49E9-A2C9-535A21784185}|AppXoSO\\AppXoSO.csproj|D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\AppXoSO\\appxoso\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4675854F-ABC6-49E9-A2C9-535A21784185}|AppXoSO\\AppXoSO.csproj|solutionrelative:appxoso\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4675854F-ABC6-49E9-A2C9-535A21784185}|AppXoSO\\AppXoSO.csproj|D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\AppXoSO\\appxoso\\formchitiet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4675854F-ABC6-49E9-A2C9-535A21784185}|AppXoSO\\AppXoSO.csproj|solutionrelative:appxoso\\formchitiet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4675854F-ABC6-49E9-A2C9-535A21784185}|AppXoSO\\AppXoSO.csproj|D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\AppXoSO\\appxoso\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4675854F-ABC6-49E9-A2C9-535A21784185}|AppXoSO\\AppXoSO.csproj|solutionrelative:appxoso\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FormChiTiet.cs [Design]",
+              "DocumentMoniker": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\AppXoSO\\AppXoSO\\FormChiTiet.cs",
+              "RelativeDocumentMoniker": "AppXoSO\\FormChiTiet.cs",
+              "ToolTip": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\AppXoSO\\AppXoSO\\FormChiTiet.cs [Design]",
+              "RelativeToolTip": "AppXoSO\\FormChiTiet.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T14:13:20.466Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormChiTiet.Designer.cs",
+              "DocumentMoniker": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\AppXoSO\\AppXoSO\\FormChiTiet.Designer.cs",
+              "RelativeDocumentMoniker": "AppXoSO\\FormChiTiet.Designer.cs",
+              "ToolTip": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\AppXoSO\\AppXoSO\\FormChiTiet.Designer.cs",
+              "RelativeToolTip": "AppXoSO\\FormChiTiet.Designer.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAkwCMAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T12:22:38.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormChiTiet.cs",
+              "DocumentMoniker": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\AppXoSO\\AppXoSO\\FormChiTiet.cs",
+              "RelativeDocumentMoniker": "AppXoSO\\FormChiTiet.cs",
+              "ToolTip": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\AppXoSO\\AppXoSO\\FormChiTiet.cs",
+              "RelativeToolTip": "AppXoSO\\FormChiTiet.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T16:22:29.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\AppXoSO\\AppXoSO\\Form1.cs",
+              "RelativeDocumentMoniker": "AppXoSO\\Form1.cs",
+              "ToolTip": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\AppXoSO\\AppXoSO\\Form1.cs",
+              "RelativeToolTip": "AppXoSO\\Form1.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAIwFAAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T23:24:51.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\AppXoSO\\AppXoSO\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "AppXoSO\\Form1.Designer.cs",
+              "ToolTip": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\AppXoSO\\AppXoSO\\Form1.Designer.cs",
+              "RelativeToolTip": "AppXoSO\\Form1.Designer.cs",
+              "ViewState": "AgIAAFsAAAAAAAAAAAAkwHkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T23:29:16.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\AppXoSO\\AppXoSO\\Program.cs",
+              "RelativeDocumentMoniker": "AppXoSO\\Program.cs",
+              "ToolTip": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\AppXoSO\\AppXoSO\\Program.cs",
+              "RelativeToolTip": "AppXoSO\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T23:23:22.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\AppXoSO\\AppXoSO\\Form1.cs",
+              "RelativeDocumentMoniker": "AppXoSO\\Form1.cs",
+              "ToolTip": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\AppXoSO\\AppXoSO\\Form1.cs [Design]",
+              "RelativeToolTip": "AppXoSO\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T23:21:07.509Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "XuLyXoSo.cs",
+              "DocumentMoniker": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\AppXoSO\\AppXoSO\\XuLyXoSo.cs",
+              "RelativeDocumentMoniker": "AppXoSO\\XuLyXoSo.cs",
+              "ToolTip": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\AppXoSO\\AppXoSO\\XuLyXoSo.cs",
+              "RelativeToolTip": "AppXoSO\\XuLyXoSo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAwHEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T23:05:36.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "KetQuaXoSo.cs",
+              "DocumentMoniker": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\AppXoSO\\AppXoSO\\KetQuaXoSo.cs",
+              "RelativeDocumentMoniker": "AppXoSO\\KetQuaXoSo.cs",
+              "ToolTip": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\AppXoSO\\AppXoSO\\KetQuaXoSo.cs",
+              "RelativeToolTip": "AppXoSO\\KetQuaXoSo.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAUwBMAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T23:04:57.86Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

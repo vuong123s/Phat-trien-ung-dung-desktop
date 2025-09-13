@@ -1,0 +1,7 @@
+SV.00001,Nguyễn Văn An,5/10/2000,Hà Nội,CNTT01,,Nam,an.nguyen@email.com,0912345678
+SV.00002,Trần Thị Bình,12/11/2001,Hồ Chí Minh,KT02,,Nữ,binh.tran@email.com,0923456789
+SV.00003,Lê Văn Cường,25/05/1999,Đà Nẵng,QT03,,Nam,cuong.le@email.com,0934567890
+SV.00004,Phạm Thị Dung,14/02/2000,Cần Thơ,NN04,,Nữ,dung.pham@email.com,0945678901
+SV.00005,Hoàng Văn Em,11/03/2001,Hải Phòng,CNTT05,,Nam,em.hoang@email.com,0956789012
+SV.00006,Vũ Thị Phương,20/12/1999,Nha Trang,KT06,,Nữ,phuong.vu@email.com,0967890123
+SV.00007,Đặng Văn Quân,05/05/2000,Huế,QT07,,Nam,quan.dang@email.com,0978901234

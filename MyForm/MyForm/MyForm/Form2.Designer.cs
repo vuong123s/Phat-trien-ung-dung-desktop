@@ -34,7 +34,7 @@
             // lblThongBao
             // 
             this.lblThongBao.AutoSize = true;
-            this.lblThongBao.Location = new System.Drawing.Point(317, 257);
+            this.lblThongBao.Location = new System.Drawing.Point(79, 46);
             this.lblThongBao.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.lblThongBao.Name = "lblThongBao";
             this.lblThongBao.Size = new System.Drawing.Size(85, 16);
@@ -46,9 +46,9 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(853, 640);
+            this.ClientSize = new System.Drawing.Size(449, 321);
             this.Controls.Add(this.lblThongBao);
-            this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.Margin = new System.Windows.Forms.Padding(4);
             this.Name = "frmTBGiangVien";
             this.Text = "Form2";
             this.Load += new System.EventHandler(this.frmTBGiangVien_Load);
