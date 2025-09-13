@@ -117,7 +117,7 @@ namespace AppXoSO
                     DateTime pubDate = DateTime.Now;
                     DateTime.TryParse(item["pubDate"]?.InnerText, out pubDate);
 
-                    var list = xl.ParseManyFromDescription(title, description, pubDate);
+                    var list = xl.TachDescription(title, description, pubDate);
                     allResults.AddRange(list);
                 }
 

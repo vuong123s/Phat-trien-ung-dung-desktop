@@ -8,7 +8,7 @@ namespace AppXoSO
 {
     public class XuLyXoSo
     {
-        private DateTime? ExtractDateFromTitle(string title, DateTime? fallback)
+        private DateTime? TachNgay(string title, DateTime? fallback)
         {
             if (string.IsNullOrWhiteSpace(title)) return fallback;
 
@@ -28,11 +28,11 @@ namespace AppXoSO
             return fallback;
         }
 
-        public List<KetQuaXoSo> ParseManyFromDescription(string title, string description, DateTime? pubDate = null)
+        public List<KetQuaXoSo> TachDescription(string title, string description, DateTime? pubDate = null)
         {
             var results = new List<KetQuaXoSo>();
 
-            DateTime? ngay = ExtractDateFromTitle(title, pubDate);
+            DateTime? ngay = TachNgay(title, pubDate);
 
             if (string.IsNullOrWhiteSpace(description))
             {
@@ -66,7 +66,7 @@ namespace AppXoSO
                     current = new KetQuaXoSo
                     {
                         Tinh = mHeader.Groups[1].Value.Trim(),
-                        Ngay = ExtractDateFromTitle(title, ngay)
+                        Ngay = TachNgay(title, ngay)
                     };
                     foundHeader = true;
                     continue;
@@ -78,37 +78,37 @@ namespace AppXoSO
                     foundHeader = true;
                 }
 
-                if (line.StartsWith("ĐB:", StringComparison.OrdinalIgnoreCase))
+                if (line.StartsWith("ĐB:"))
                 {
-                    current.GiaiDB = SplitPrizeNumbers(line.Substring(3));
+                    current.GiaiDB = ChiaSoGiai(line.Substring(3));
                 }
-                else if (line.StartsWith("1:", StringComparison.OrdinalIgnoreCase))
+                else if (line.StartsWith("1:"))
                 {
-                    current.Giai1 = SplitPrizeNumbers(line.Substring(2));
+                    current.Giai1 = ChiaSoGiai(line.Substring(2));
                 }
-                else if (line.StartsWith("2:", StringComparison.OrdinalIgnoreCase))
+                else if (line.StartsWith("2:"))
                 {
-                    current.Giai2 = SplitPrizeNumbers(line.Substring(2));
+                    current.Giai2 = ChiaSoGiai(line.Substring(2));
                 }
-                else if (line.StartsWith("3:", StringComparison.OrdinalIgnoreCase))
+                else if (line.StartsWith("3:"))
                 {
-                    current.Giai3 = SplitPrizeNumbers(line.Substring(2));
+                    current.Giai3 = ChiaSoGiai(line.Substring(2));
                 }
-                else if (line.StartsWith("4:", StringComparison.OrdinalIgnoreCase))
+                else if (line.StartsWith("4:"))
                 {
-                    current.Giai4 = SplitPrizeNumbers(line.Substring(2));
+                    current.Giai4 = ChiaSoGiai(line.Substring(2));
                 }
-                else if (line.StartsWith("5:", StringComparison.OrdinalIgnoreCase))
+                else if (line.StartsWith("5:"))
                 {
-                    current.Giai5 = SplitPrizeNumbers(line.Substring(2));
+                    current.Giai5 = ChiaSoGiai(line.Substring(2));
                 }
-                else if (line.StartsWith("6:", StringComparison.OrdinalIgnoreCase))
+                else if (line.StartsWith("6:"))
                 {
-                    current.Giai6 = SplitPrizeNumbers(line.Substring(2));
+                    current.Giai6 = ChiaSoGiai(line.Substring(2));
                 }
-                else if (line.StartsWith("7:", StringComparison.OrdinalIgnoreCase))
+                else if (line.StartsWith("7:"))
                 {
-                    current.Giai7 = SplitPrizeNumbers(line.Substring(2));
+                    current.Giai7 = ChiaSoGiai(line.Substring(2));
                 }
             }
 
@@ -116,7 +116,7 @@ namespace AppXoSO
             return results;
         }
 
-        private List<string> SplitPrizeNumbers(string s)
+        private List<string> ChiaSoGiai(string s)
         {
             if (string.IsNullOrWhiteSpace(s)) return new List<string>();
             var tokens = s.Split(new[] { '-', ' ' }, StringSplitOptions.RemoveEmptyEntries);

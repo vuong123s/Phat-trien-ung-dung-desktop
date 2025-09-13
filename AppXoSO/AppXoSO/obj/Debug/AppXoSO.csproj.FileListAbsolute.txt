@@ -10,3 +10,15 @@ D:\Vương\Nam 3 Ki 1\AppXoSO\AppXoSO\obj\Debug\AppXoSO.exe
 D:\Vương\Nam 3 Ki 1\AppXoSO\AppXoSO\obj\Debug\AppXoSO.pdb
 D:\Vương\Nam 3 Ki 1\AppXoSO\AppXoSO\obj\Debug\AppXoSO.exe.config
 D:\Vương\Nam 3 Ki 1\AppXoSO\AppXoSO\obj\Debug\AppXoSO.FormChiTiet.resources
+D:\Vương\Nam 3 Ki 1\Phát triển ứng dụng desktop\AppXoSO\AppXoSO\bin\Debug\AppXoSO.exe.config
+D:\Vương\Nam 3 Ki 1\Phát triển ứng dụng desktop\AppXoSO\AppXoSO\bin\Debug\AppXoSO.exe
+D:\Vương\Nam 3 Ki 1\Phát triển ứng dụng desktop\AppXoSO\AppXoSO\bin\Debug\AppXoSO.pdb
+D:\Vương\Nam 3 Ki 1\Phát triển ứng dụng desktop\AppXoSO\AppXoSO\obj\Debug\AppXoSO.csproj.AssemblyReference.cache
+D:\Vương\Nam 3 Ki 1\Phát triển ứng dụng desktop\AppXoSO\AppXoSO\obj\Debug\AppXoSO.exe.config
+D:\Vương\Nam 3 Ki 1\Phát triển ứng dụng desktop\AppXoSO\AppXoSO\obj\Debug\AppXoSO.Form1.resources
+D:\Vương\Nam 3 Ki 1\Phát triển ứng dụng desktop\AppXoSO\AppXoSO\obj\Debug\AppXoSO.FormChiTiet.resources
+D:\Vương\Nam 3 Ki 1\Phát triển ứng dụng desktop\AppXoSO\AppXoSO\obj\Debug\AppXoSO.Properties.Resources.resources
+D:\Vương\Nam 3 Ki 1\Phát triển ứng dụng desktop\AppXoSO\AppXoSO\obj\Debug\AppXoSO.csproj.GenerateResource.cache
+D:\Vương\Nam 3 Ki 1\Phát triển ứng dụng desktop\AppXoSO\AppXoSO\obj\Debug\AppXoSO.csproj.CoreCompileInputs.cache
+D:\Vương\Nam 3 Ki 1\Phát triển ứng dụng desktop\AppXoSO\AppXoSO\obj\Debug\AppXoSO.exe
+D:\Vương\Nam 3 Ki 1\Phát triển ứng dụng desktop\AppXoSO\AppXoSO\obj\Debug\AppXoSO.pdb
