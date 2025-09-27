@@ -1,0 +1,7 @@
+D:\ChuDe3\ChuDe3\obj\Debug\ChuDe3.csproj.AssemblyReference.cache
+D:\ChuDe3\ChuDe3\obj\Debug\ChuDe3.csproj.CoreCompileInputs.cache
+D:\ChuDe3\ChuDe3\bin\Debug\ChuDe3.exe.config
+D:\ChuDe3\ChuDe3\bin\Debug\ChuDe3.exe
+D:\ChuDe3\ChuDe3\bin\Debug\ChuDe3.pdb
+D:\ChuDe3\ChuDe3\obj\Debug\ChuDe3.exe
+D:\ChuDe3\ChuDe3\obj\Debug\ChuDe3.pdb

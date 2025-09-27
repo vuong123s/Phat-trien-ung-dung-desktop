@@ -1,0 +1,76 @@
+F:\TV4\PC424\2115260_Lab5\Lab05\Lab05\bin\Debug\Lab05.exe.config
+F:\TV4\PC424\2115260_Lab5\Lab05\Lab05\bin\Debug\Lab05.exe
+F:\TV4\PC424\2115260_Lab5\Lab05\Lab05\bin\Debug\Lab05.pdb
+F:\TV4\PC424\2115260_Lab5\Lab05\Lab05\bin\Debug\Newtonsoft.Json.dll
+F:\TV4\PC424\2115260_Lab5\Lab05\Lab05\bin\Debug\Newtonsoft.Json.xml
+F:\TV4\PC424\2115260_Lab5\Lab05\Lab05\obj\Debug\Lab05.csprojAssemblyReference.cache
+F:\TV4\PC424\2115260_Lab5\Lab05\Lab05\obj\Debug\Lab05.Properties.Resources.resources
+F:\TV4\PC424\2115260_Lab5\Lab05\Lab05\obj\Debug\Lab05.csproj.GenerateResource.cache
+F:\TV4\PC424\2115260_Lab5\Lab05\Lab05\obj\Debug\Lab05.csproj.CoreCompileInputs.cache
+F:\TV4\PC424\2115260_Lab5\Lab05\Lab05\obj\Debug\Lab05.csproj.CopyComplete
+F:\TV4\PC424\2115260_Lab5\Lab05\Lab05\obj\Debug\Lab05.exe
+F:\TV4\PC424\2115260_Lab5\Lab05\Lab05\obj\Debug\Lab05.pdb
+F:\TV4\PC424\2115260_Lab5\Lab05\Lab05\obj\Debug\Lab05.mainFrm.resources
+F:\TV4\PC424\2115260_Lab5\Lab05\Lab05\obj\Debug\Lab05.Form2.resources
+D:\Nam 2\PTUDDK\2115260_Lab5\Lab05\Lab05\obj\Debug\Lab05.csproj.AssemblyReference.cache
+D:\Nam 2\PTUDDK\2115260_Lab5\Lab05\Lab05\obj\Debug\Lab05.csproj.SuggestedBindingRedirects.cache
+D:\Nam 2\PTUDDK\2115260_Lab5\Lab05\Lab05\obj\Debug\Lab05.Form2.resources
+D:\Nam 2\PTUDDK\2115260_Lab5\Lab05\Lab05\obj\Debug\Lab05.mainFrm.resources
+D:\Nam 2\PTUDDK\2115260_Lab5\Lab05\Lab05\obj\Debug\Lab05.Properties.Resources.resources
+D:\Nam 2\PTUDDK\2115260_Lab5\Lab05\Lab05\obj\Debug\Lab05.csproj.GenerateResource.cache
+D:\Nam 2\PTUDDK\2115260_Lab5\Lab05\Lab05\obj\Debug\Lab05.csproj.CoreCompileInputs.cache
+D:\Nam 2\PTUDDK\2115260_Lab5\Lab05\Lab05\obj\Debug\Lab05.exe
+D:\Nam 2\PTUDDK\2115260_Lab5\Lab05\Lab05\obj\Debug\Lab05.pdb
+D:\Nam 2\PTUDDK\2115260_Lab5\Lab05\Lab05\bin\Debug\Lab05.exe.config
+D:\Nam 2\PTUDDK\2115260_Lab5\Lab05\Lab05\bin\Debug\Lab05.exe
+D:\Nam 2\PTUDDK\2115260_Lab5\Lab05\Lab05\bin\Debug\Lab05.pdb
+D:\Nam 2\PTUDDK\2115260_Lab5\Lab05\Lab05\bin\Debug\Newtonsoft.Json.dll
+D:\Nam 2\PTUDDK\2115260_Lab5\Lab05\Lab05\bin\Debug\Newtonsoft.Json.xml
+D:\Nam 2\PTUDDK\2115260_Lab5\Lab05\Lab05\obj\Debug\Lab05.csproj.CopyComplete
+G:\TV4\PC424\Lab05\Lab05\bin\Debug\Lab05.exe.config
+G:\TV4\PC424\Lab05\Lab05\bin\Debug\Lab05.exe
+G:\TV4\PC424\Lab05\Lab05\bin\Debug\Lab05.pdb
+G:\TV4\PC424\Lab05\Lab05\bin\Debug\Newtonsoft.Json.dll
+G:\TV4\PC424\Lab05\Lab05\bin\Debug\Newtonsoft.Json.xml
+G:\TV4\PC424\Lab05\Lab05\obj\Debug\Lab05.csprojAssemblyReference.cache
+G:\TV4\PC424\Lab05\Lab05\obj\Debug\Lab05.Form2.resources
+G:\TV4\PC424\Lab05\Lab05\obj\Debug\Lab05.mainFrm.resources
+G:\TV4\PC424\Lab05\Lab05\obj\Debug\Lab05.Properties.Resources.resources
+G:\TV4\PC424\Lab05\Lab05\obj\Debug\Lab05.csproj.GenerateResource.cache
+G:\TV4\PC424\Lab05\Lab05\obj\Debug\Lab05.csproj.CoreCompileInputs.cache
+G:\TV4\PC424\Lab05\Lab05\obj\Debug\Lab05.csproj.CopyComplete
+G:\TV4\PC424\Lab05\Lab05\obj\Debug\Lab05.exe
+G:\TV4\PC424\Lab05\Lab05\obj\Debug\Lab05.pdb
+G:\TV4\PC424\Lab05\Lab05\obj\Debug\Lab05.frmTimKiem.resources
+D:\Vương\Nam 3 Ki 1\Phát triển ứng dụng desktop\2115260_Lab05\Lab05\Lab05\bin\Debug\Lab05.exe.config
+D:\Vương\Nam 3 Ki 1\Phát triển ứng dụng desktop\2115260_Lab05\Lab05\Lab05\bin\Debug\Lab05.exe
+D:\Vương\Nam 3 Ki 1\Phát triển ứng dụng desktop\2115260_Lab05\Lab05\Lab05\bin\Debug\Lab05.pdb
+D:\Vương\Nam 3 Ki 1\Phát triển ứng dụng desktop\2115260_Lab05\Lab05\Lab05\bin\Debug\Newtonsoft.Json.dll
+D:\Vương\Nam 3 Ki 1\Phát triển ứng dụng desktop\2115260_Lab05\Lab05\Lab05\bin\Debug\Newtonsoft.Json.xml
+D:\Vương\Nam 3 Ki 1\Phát triển ứng dụng desktop\2115260_Lab05\Lab05\Lab05\obj\Debug\Lab05.csproj.AssemblyReference.cache
+D:\Vương\Nam 3 Ki 1\Phát triển ứng dụng desktop\2115260_Lab05\Lab05\Lab05\obj\Debug\Lab05.exe.config
+D:\Vương\Nam 3 Ki 1\Phát triển ứng dụng desktop\2115260_Lab05\Lab05\Lab05\obj\Debug\Lab05.frmTimKiem.resources
+D:\Vương\Nam 3 Ki 1\Phát triển ứng dụng desktop\2115260_Lab05\Lab05\Lab05\obj\Debug\Lab05.Form2.resources
+D:\Vương\Nam 3 Ki 1\Phát triển ứng dụng desktop\2115260_Lab05\Lab05\Lab05\obj\Debug\Lab05.mainFrm.resources
+D:\Vương\Nam 3 Ki 1\Phát triển ứng dụng desktop\2115260_Lab05\Lab05\Lab05\obj\Debug\Lab05.Properties.Resources.resources
+D:\Vương\Nam 3 Ki 1\Phát triển ứng dụng desktop\2115260_Lab05\Lab05\Lab05\obj\Debug\Lab05.csproj.GenerateResource.cache
+D:\Vương\Nam 3 Ki 1\Phát triển ứng dụng desktop\2115260_Lab05\Lab05\Lab05\obj\Debug\Lab05.csproj.CoreCompileInputs.cache
+D:\Vương\Nam 3 Ki 1\Phát triển ứng dụng desktop\2115260_Lab05\Lab05\Lab05\obj\Debug\Lab05.csproj.Up2Date
+D:\Vương\Nam 3 Ki 1\Phát triển ứng dụng desktop\2115260_Lab05\Lab05\Lab05\obj\Debug\Lab05.exe
+D:\Vương\Nam 3 Ki 1\Phát triển ứng dụng desktop\2115260_Lab05\Lab05\Lab05\obj\Debug\Lab05.pdb
+D:\Vương\Nam 3 Ki 1\Phát triển ứng dụng desktop\ChuDe3\ChuDe3\BaiTap\Lab05\bin\Debug\Lab05.exe.config
+D:\Vương\Nam 3 Ki 1\Phát triển ứng dụng desktop\ChuDe3\ChuDe3\BaiTap\Lab05\bin\Debug\Lab05.exe
+D:\Vương\Nam 3 Ki 1\Phát triển ứng dụng desktop\ChuDe3\ChuDe3\BaiTap\Lab05\bin\Debug\Lab05.pdb
+D:\Vương\Nam 3 Ki 1\Phát triển ứng dụng desktop\ChuDe3\ChuDe3\BaiTap\Lab05\bin\Debug\Newtonsoft.Json.dll
+D:\Vương\Nam 3 Ki 1\Phát triển ứng dụng desktop\ChuDe3\ChuDe3\BaiTap\Lab05\bin\Debug\Newtonsoft.Json.xml
+D:\Vương\Nam 3 Ki 1\Phát triển ứng dụng desktop\ChuDe3\ChuDe3\BaiTap\Lab05\obj\Debug\Lab05.csproj.AssemblyReference.cache
+D:\Vương\Nam 3 Ki 1\Phát triển ứng dụng desktop\ChuDe3\ChuDe3\BaiTap\Lab05\obj\Debug\Lab05.exe.config
+D:\Vương\Nam 3 Ki 1\Phát triển ứng dụng desktop\ChuDe3\ChuDe3\BaiTap\Lab05\obj\Debug\Lab05.frmTimKiem.resources
+D:\Vương\Nam 3 Ki 1\Phát triển ứng dụng desktop\ChuDe3\ChuDe3\BaiTap\Lab05\obj\Debug\Lab05.Form2.resources
+D:\Vương\Nam 3 Ki 1\Phát triển ứng dụng desktop\ChuDe3\ChuDe3\BaiTap\Lab05\obj\Debug\Lab05.Properties.Resources.resources
+D:\Vương\Nam 3 Ki 1\Phát triển ứng dụng desktop\ChuDe3\ChuDe3\BaiTap\Lab05\obj\Debug\Lab05.csproj.GenerateResource.cache
+D:\Vương\Nam 3 Ki 1\Phát triển ứng dụng desktop\ChuDe3\ChuDe3\BaiTap\Lab05\obj\Debug\Lab05.csproj.CoreCompileInputs.cache
+D:\Vương\Nam 3 Ki 1\Phát triển ứng dụng desktop\ChuDe3\ChuDe3\BaiTap\Lab05\obj\Debug\Lab05.csproj.Up2Date
+D:\Vương\Nam 3 Ki 1\Phát triển ứng dụng desktop\ChuDe3\ChuDe3\BaiTap\Lab05\obj\Debug\Lab05.exe
+D:\Vương\Nam 3 Ki 1\Phát triển ứng dụng desktop\ChuDe3\ChuDe3\BaiTap\Lab05\obj\Debug\Lab05.pdb
+D:\Vương\Nam 3 Ki 1\Phát triển ứng dụng desktop\ChuDe3\ChuDe3\BaiTap\Lab05\obj\Debug\Lab05.Form1.resources

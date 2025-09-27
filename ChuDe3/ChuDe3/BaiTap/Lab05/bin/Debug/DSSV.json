@@ -1,0 +1,46 @@
+[
+  {
+    "MSSV": "2115260",
+    "HoLot": "Nguyen Van",
+    "Ten": "An",
+    "GioiTinh": true,
+    "NgaySinh": "2003-10-15T00:00:00",
+    "Lop": "CTK45",
+    "CMND": "1234567890",
+    "SoDT": "0123.123.212",
+    "DiaChi": "Da Lat",
+    "MonHocDK": [
+      "Mang may tinh",
+      "Phuong phap NCKH"
+    ]
+  },
+  {
+    "MSSV": "2015260",
+    "HoLot": "Le Van",
+    "Ten": "Bao",
+    "GioiTinh": true,
+    "NgaySinh": "2002-04-15T00:00:00",
+    "Lop": "CTK44",
+    "CMND": "1234567890",
+    "SoDT": "0123,123,212",
+    "DiaChi": "Da Lat",
+    "MonHocDK": [
+      "Mang may tinh",
+      "Phuong phap NCKH"
+    ]
+  },
+  {
+    "MSSV": "1515515",
+    "HoLot": "Khanh",
+    "Ten": "Phan",
+    "GioiTinh": true,
+    "NgaySinh": "2025-09-27T11:33:04.0891525+07:00",
+    "Lop": "CTK46",
+    "CMND": "1515484848",
+    "SoDT": "1515,151,515",
+    "DiaChi": "DaLat",
+    "MonHocDK": [
+      "Phuong phap NCKH"
+    ]
+  }
+]

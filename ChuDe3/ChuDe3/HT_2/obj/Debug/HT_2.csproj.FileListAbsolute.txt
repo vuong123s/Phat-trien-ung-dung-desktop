@@ -1,0 +1,13 @@
+D:\ChuDe3\HT_2\obj\Debug\HT_2.csproj.AssemblyReference.cache
+D:\ChuDe3\HT_2\obj\Debug\HT_2.frmReadJson.resources
+D:\ChuDe3\HT_2\obj\Debug\HT_2.Properties.Resources.resources
+D:\ChuDe3\HT_2\obj\Debug\HT_2.csproj.GenerateResource.cache
+D:\ChuDe3\HT_2\obj\Debug\HT_2.csproj.CoreCompileInputs.cache
+D:\ChuDe3\HT_2\bin\Debug\HT_2.exe.config
+D:\ChuDe3\HT_2\bin\Debug\HT_2.exe
+D:\ChuDe3\HT_2\bin\Debug\HT_2.pdb
+D:\ChuDe3\HT_2\bin\Debug\Newtonsoft.Json.dll
+D:\ChuDe3\HT_2\bin\Debug\Newtonsoft.Json.xml
+D:\ChuDe3\HT_2\obj\Debug\HT_2.csproj.CopyComplete
+D:\ChuDe3\HT_2\obj\Debug\HT_2.exe
+D:\ChuDe3\HT_2\obj\Debug\HT_2.pdb

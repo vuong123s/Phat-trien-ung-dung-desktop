@@ -1,0 +1,7 @@
+D:\ChuDe3\HT_3_P2\bin\Debug\HT_3_P2.exe.config
+D:\ChuDe3\HT_3_P2\bin\Debug\HT_3_P2.exe
+D:\ChuDe3\HT_3_P2\bin\Debug\HT_3_P2.pdb
+D:\ChuDe3\HT_3_P2\obj\Debug\HT_3_P2.csproj.AssemblyReference.cache
+D:\ChuDe3\HT_3_P2\obj\Debug\HT_3_P2.csproj.CoreCompileInputs.cache
+D:\ChuDe3\HT_3_P2\obj\Debug\HT_3_P2.exe
+D:\ChuDe3\HT_3_P2\obj\Debug\HT_3_P2.pdb

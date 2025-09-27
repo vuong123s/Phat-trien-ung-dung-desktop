@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ArrayOfSudents>
+	<Student>
+		<MSSV>2115260</MSSV>
+		<HoLot>Nguyen Van</HoLot>
+		<Ten>An</Ten>
+		<GioiTinh>Nam</GioiTinh>
+		<NgaySinh>4/18/2003 12:00:00 AM</NgaySinh>
+		<Lop>CTK45</Lop>
+		<CMND>1234567890</CMND>
+		<SoDT>0123.123.212</SoDT>
+		<DiaChi>da lat</DiaChi>
+		<MonHocDK>Mang may tinh,Phuong phap NCKH</MonHocDK>
+	</Student>
+	<Student>
+		<MSSV>2015260</MSSV>
+		<HoLot>Le Van</HoLot>
+		<Ten>B</Ten>
+		<GioiTinh>Nam</GioiTinh>
+		<NgaySinh>4/15/2002 12:00:00 AM</NgaySinh>
+		<Lop>CTK44</Lop>
+		<CMND>1234567890</CMND>
+		<SoDT>0123.123.212</SoDT>
+		<DiaChi>da lat</DiaChi>
+		<MonHocDK>Mang may tinh,Phuong phap NCKH</MonHocDK>
+	</Student>
+	<Student>
+		<MSSV>1915111</MSSV>
+		<HoLot>Tran Thi</HoLot>
+		<Ten>Naaaaa</Ten>
+		<GioiTinh>Nu</GioiTinh>
+		<NgaySinh>4/18/2001 12:00:00 AM</NgaySinh>
+		<Lop>CTK45</Lop>
+		<CMND>1234567890</CMND>
+		<SoDT>0123.123.212</SoDT>
+		<DiaChi>da lat</DiaChi>
+		<MonHocDK>Mang may tinh,Phuong phap NCKH</MonHocDK>
+	</Student>
+</ArrayOfSudents>

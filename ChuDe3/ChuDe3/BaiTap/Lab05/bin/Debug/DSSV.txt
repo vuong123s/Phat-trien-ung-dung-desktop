@@ -1,0 +1,4 @@
+2115000*Nguyen Van*An*Nữ*12/11/2004 12:00:00 SA*CTK44*1234567890*0123.123.212*Da Lat*Mang may tinh,Phuong phap NCKH*
+2114544*Phan Van*qqqqqq*Nữ*04/10/2003 12:00:00 SA*CTK44*1234567890*0123.123.212*Gia Lai*Mang may tinh,Phuong phap NCKH*
+2515454*Phan Khanh*ffffffff*Nam*07/05/2005 12:00:00 SA*CTK44*1234567890*0123,123,212*Phu Tho*Mang may tinh,Phuong phap NCKH*
+24848*Vu The*Ngo*Nam*11/05/2005 12:00:00 SA*CTK46*1234567890*0123,123,212*Da Lat*Mang may tinh,Lap tring CSDL,Phuong phap NCKH*

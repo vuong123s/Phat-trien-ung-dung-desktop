@@ -1,0 +1,18 @@
+{
+  "sinhvien": [
+    {
+      "MSSV": "1245732",
+      "Hoten": "Thai Duy Quy",
+      "Tuoi": 21,
+      "Diem": 8.5,
+      "TonGiao": false
+    },
+    {
+      "MSSV": "1245872",
+      "Hoten": "Phan Thi Thanh Nga",
+      "Tuoi": 20,
+      "Diem": 9.0,
+      "TonGiao": true
+    }
+  ]
+}

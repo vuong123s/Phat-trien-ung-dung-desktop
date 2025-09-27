@@ -1,0 +1,396 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\ChuDe3\\ChuDe3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B2C31E29-4D7B-4DB1-922C-ADBF8C746A66}|BaiTap\\Lab05\\Lab05.csproj|D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\ChuDe3\\ChuDe3\\baitap\\lab05\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2C31E29-4D7B-4DB1-922C-ADBF8C746A66}|BaiTap\\Lab05\\Lab05.csproj|solutionrelative:baitap\\lab05\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2C31E29-4D7B-4DB1-922C-ADBF8C746A66}|BaiTap\\Lab05\\Lab05.csproj|d:\\v\u01B0\u01A1ng\\nam 3 ki 1\\ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\chude3\\chude3\\baitap\\lab05\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B2C31E29-4D7B-4DB1-922C-ADBF8C746A66}|BaiTap\\Lab05\\Lab05.csproj|solutionrelative:baitap\\lab05\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2C31E29-4D7B-4DB1-922C-ADBF8C746A66}|BaiTap\\Lab05\\Lab05.csproj|D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\ChuDe3\\ChuDe3\\baitap\\lab05\\frmtimkiem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2C31E29-4D7B-4DB1-922C-ADBF8C746A66}|BaiTap\\Lab05\\Lab05.csproj|solutionrelative:baitap\\lab05\\frmtimkiem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2C31E29-4D7B-4DB1-922C-ADBF8C746A66}|BaiTap\\Lab05\\Lab05.csproj|D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\ChuDe3\\ChuDe3\\baitap\\lab05\\frmtimkiem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B2C31E29-4D7B-4DB1-922C-ADBF8C746A66}|BaiTap\\Lab05\\Lab05.csproj|solutionrelative:baitap\\lab05\\frmtimkiem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2C31E29-4D7B-4DB1-922C-ADBF8C746A66}|BaiTap\\Lab05\\Lab05.csproj|d:\\v\u01B0\u01A1ng\\nam 3 ki 1\\ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\chude3\\chude3\\baitap\\lab05\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B2C31E29-4D7B-4DB1-922C-ADBF8C746A66}|BaiTap\\Lab05\\Lab05.csproj|solutionrelative:baitap\\lab05\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2C31E29-4D7B-4DB1-922C-ADBF8C746A66}|BaiTap\\Lab05\\Lab05.csproj|D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\ChuDe3\\ChuDe3\\baitap\\lab05\\quanlysinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2C31E29-4D7B-4DB1-922C-ADBF8C746A66}|BaiTap\\Lab05\\Lab05.csproj|solutionrelative:baitap\\lab05\\quanlysinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2C31E29-4D7B-4DB1-922C-ADBF8C746A66}|BaiTap\\Lab05\\Lab05.csproj|d:\\v\u01B0\u01A1ng\\nam 3 ki 1\\ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\chude3\\chude3\\baitap\\lab05\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2C31E29-4D7B-4DB1-922C-ADBF8C746A66}|BaiTap\\Lab05\\Lab05.csproj|solutionrelative:baitap\\lab05\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2C31E29-4D7B-4DB1-922C-ADBF8C746A66}|BaiTap\\Lab05\\Lab05.csproj|d:\\v\u01B0\u01A1ng\\nam 3 ki 1\\ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\chude3\\chude3\\baitap\\lab05\\form2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2C31E29-4D7B-4DB1-922C-ADBF8C746A66}|BaiTap\\Lab05\\Lab05.csproj|solutionrelative:baitap\\lab05\\form2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2C31E29-4D7B-4DB1-922C-ADBF8C746A66}|BaiTap\\Lab05\\Lab05.csproj|D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\ChuDe3\\ChuDe3\\baitap\\lab05\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2C31E29-4D7B-4DB1-922C-ADBF8C746A66}|BaiTap\\Lab05\\Lab05.csproj|solutionrelative:baitap\\lab05\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FAC27A0-7294-4ACB-AA98-84512D7D2786}|ChuDe3\\ChuDe3.csproj|D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\ChuDe3\\ChuDe3\\chude3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FAC27A0-7294-4ACB-AA98-84512D7D2786}|ChuDe3\\ChuDe3.csproj|solutionrelative:chude3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2C31E29-4D7B-4DB1-922C-ADBF8C746A66}|BaiTap\\Lab05\\Lab05.csproj|D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\ChuDe3\\ChuDe3\\baitap\\lab05\\danhsachsv.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{B2C31E29-4D7B-4DB1-922C-ADBF8C746A66}|BaiTap\\Lab05\\Lab05.csproj|solutionrelative:baitap\\lab05\\danhsachsv.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2C31E29-4D7B-4DB1-922C-ADBF8C746A66}|BaiTap\\Lab05\\Lab05.csproj|D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\ChuDe3\\ChuDe3\\baitap\\lab05\\sinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2C31E29-4D7B-4DB1-922C-ADBF8C746A66}|BaiTap\\Lab05\\Lab05.csproj|solutionrelative:baitap\\lab05\\sinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{475AA7AB-2557-45C4-820F-2B4D4BF3BE4D}|HT_2\\HT_2.csproj|D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\ChuDe3\\ChuDe3\\ht_2\\frmreadjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{475AA7AB-2557-45C4-820F-2B4D4BF3BE4D}|HT_2\\HT_2.csproj|solutionrelative:ht_2\\frmreadjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{475AA7AB-2557-45C4-820F-2B4D4BF3BE4D}|HT_2\\HT_2.csproj|D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\ChuDe3\\ChuDe3\\ht_2\\studentinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{475AA7AB-2557-45C4-820F-2B4D4BF3BE4D}|HT_2\\HT_2.csproj|solutionrelative:ht_2\\studentinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{475AA7AB-2557-45C4-820F-2B4D4BF3BE4D}|HT_2\\HT_2.csproj|D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\ChuDe3\\ChuDe3\\ht_2\\frmreadjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{475AA7AB-2557-45C4-820F-2B4D4BF3BE4D}|HT_2\\HT_2.csproj|solutionrelative:ht_2\\frmreadjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2C31E29-4D7B-4DB1-922C-ADBF8C746A66}|BaiTap\\Lab05\\Lab05.csproj|D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\ChuDe3\\ChuDe3\\baitap\\lab05\\dssv.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{B2C31E29-4D7B-4DB1-922C-ADBF8C746A66}|BaiTap\\Lab05\\Lab05.csproj|solutionrelative:baitap\\lab05\\dssv.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E09809AC-D06E-486E-A344-2BF967E6B5B6}|HT_3_P2\\HT_3_P2.csproj|D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\ChuDe3\\ChuDe3\\ht_3_p2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E09809AC-D06E-486E-A344-2BF967E6B5B6}|HT_3_P2\\HT_3_P2.csproj|solutionrelative:ht_3_p2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E09809AC-D06E-486E-A344-2BF967E6B5B6}|HT_3_P2\\HT_3_P2.csproj|D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\ChuDe3\\ChuDe3\\ht_3_p2\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E09809AC-D06E-486E-A344-2BF967E6B5B6}|HT_3_P2\\HT_3_P2.csproj|solutionrelative:ht_3_p2\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E09809AC-D06E-486E-A344-2BF967E6B5B6}|HT_3_P2\\HT_3_P2.csproj|D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\ChuDe3\\ChuDe3\\ht_3_p2\\books.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{E09809AC-D06E-486E-A344-2BF967E6B5B6}|HT_3_P2\\HT_3_P2.csproj|solutionrelative:ht_3_p2\\books.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DF5CBE3-3BC7-492D-94D3-9BD337A90BB6}|HT_3\\HT_3.csproj|D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\ChuDe3\\ChuDe3\\ht_3\\books.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{5DF5CBE3-3BC7-492D-94D3-9BD337A90BB6}|HT_3\\HT_3.csproj|solutionrelative:ht_3\\books.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DF5CBE3-3BC7-492D-94D3-9BD337A90BB6}|HT_3\\HT_3.csproj|D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\ChuDe3\\ChuDe3\\ht_3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DF5CBE3-3BC7-492D-94D3-9BD337A90BB6}|HT_3\\HT_3.csproj|solutionrelative:ht_3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{475AA7AB-2557-45C4-820F-2B4D4BF3BE4D}|HT_2\\HT_2.csproj|D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\ChuDe3\\ChuDe3\\ht_2\\students.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{475AA7AB-2557-45C4-820F-2B4D4BF3BE4D}|HT_2\\HT_2.csproj|solutionrelative:ht_2\\students.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{475AA7AB-2557-45C4-820F-2B4D4BF3BE4D}|HT_2\\HT_2.csproj|D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\ChuDe3\\ChuDe3\\ht_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{475AA7AB-2557-45C4-820F-2B4D4BF3BE4D}|HT_2\\HT_2.csproj|solutionrelative:ht_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\ChuDe3\\ChuDe3\\BaiTap\\Lab05\\Program.cs",
+              "RelativeDocumentMoniker": "BaiTap\\Lab05\\Program.cs",
+              "ToolTip": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\ChuDe3\\ChuDe3\\BaiTap\\Lab05\\Program.cs",
+              "RelativeToolTip": "BaiTap\\Lab05\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-27T03:56:45.416Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form2.Designer.cs",
+              "DocumentMoniker": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\ChuDe3\\ChuDe3\\BaiTap\\Lab05\\Form2.Designer.cs",
+              "RelativeDocumentMoniker": "BaiTap\\Lab05\\Form2.Designer.cs",
+              "ToolTip": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\ChuDe3\\ChuDe3\\BaiTap\\Lab05\\Form2.Designer.cs",
+              "RelativeToolTip": "BaiTap\\Lab05\\Form2.Designer.cs",
+              "ViewState": "AgIAAMcBAAAAAAAAAAAswNoBAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-27T07:04:45.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\ChuDe3\\ChuDe3\\BaiTap\\Lab05\\Form1.cs",
+              "RelativeDocumentMoniker": "BaiTap\\Lab05\\Form1.cs",
+              "ToolTip": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\ChuDe3\\ChuDe3\\BaiTap\\Lab05\\Form1.cs",
+              "RelativeToolTip": "BaiTap\\Lab05\\Form1.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwCcAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-27T07:04:05.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\ChuDe3\\ChuDe3\\BaiTap\\Lab05\\Form1.cs",
+              "RelativeDocumentMoniker": "BaiTap\\Lab05\\Form1.cs",
+              "ToolTip": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\ChuDe3\\ChuDe3\\BaiTap\\Lab05\\Form1.cs [Design]",
+              "RelativeToolTip": "BaiTap\\Lab05\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-27T06:47:18.886Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DanhSachSV.xml",
+              "DocumentMoniker": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\ChuDe3\\ChuDe3\\BaiTap\\Lab05\\DanhSachSV.xml",
+              "RelativeDocumentMoniker": "BaiTap\\Lab05\\DanhSachSV.xml",
+              "ToolTip": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\ChuDe3\\ChuDe3\\BaiTap\\Lab05\\DanhSachSV.xml",
+              "RelativeToolTip": "BaiTap\\Lab05\\DanhSachSV.xml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2025-09-27T04:03:20.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "QuanLySinhVien.cs",
+              "DocumentMoniker": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\ChuDe3\\ChuDe3\\BaiTap\\Lab05\\QuanLySinhVien.cs",
+              "RelativeDocumentMoniker": "BaiTap\\Lab05\\QuanLySinhVien.cs",
+              "ToolTip": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\ChuDe3\\ChuDe3\\BaiTap\\Lab05\\QuanLySinhVien.cs",
+              "RelativeToolTip": "BaiTap\\Lab05\\QuanLySinhVien.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAswFMAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-27T03:52:51.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SinhVien.cs",
+              "DocumentMoniker": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\ChuDe3\\ChuDe3\\BaiTap\\Lab05\\SinhVien.cs",
+              "RelativeDocumentMoniker": "BaiTap\\Lab05\\SinhVien.cs",
+              "ToolTip": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\ChuDe3\\ChuDe3\\BaiTap\\Lab05\\SinhVien.cs",
+              "RelativeToolTip": "BaiTap\\Lab05\\SinhVien.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAA5wCAAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-27T03:52:46.713Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmTimKiem.cs",
+              "DocumentMoniker": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\ChuDe3\\ChuDe3\\BaiTap\\Lab05\\frmTimKiem.cs",
+              "RelativeDocumentMoniker": "BaiTap\\Lab05\\frmTimKiem.cs",
+              "ToolTip": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\ChuDe3\\ChuDe3\\BaiTap\\Lab05\\frmTimKiem.cs",
+              "RelativeToolTip": "BaiTap\\Lab05\\frmTimKiem.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAD4vxYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-27T03:50:58.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmTimKiem.cs [Design]",
+              "DocumentMoniker": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\ChuDe3\\ChuDe3\\BaiTap\\Lab05\\frmTimKiem.cs",
+              "RelativeDocumentMoniker": "BaiTap\\Lab05\\frmTimKiem.cs",
+              "ToolTip": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\ChuDe3\\ChuDe3\\BaiTap\\Lab05\\frmTimKiem.cs [Design]",
+              "RelativeToolTip": "BaiTap\\Lab05\\frmTimKiem.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-27T03:50:56.907Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DSSV.txt",
+              "DocumentMoniker": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\ChuDe3\\ChuDe3\\BaiTap\\Lab05\\DSSV.txt",
+              "RelativeDocumentMoniker": "BaiTap\\Lab05\\DSSV.txt",
+              "ToolTip": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\ChuDe3\\ChuDe3\\BaiTap\\Lab05\\DSSV.txt",
+              "RelativeToolTip": "BaiTap\\Lab05\\DSSV.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-09-27T03:48:59.146Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\ChuDe3\\ChuDe3\\BaiTap\\Lab05\\Form2.cs",
+              "RelativeDocumentMoniker": "BaiTap\\Lab05\\Form2.cs",
+              "ToolTip": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\ChuDe3\\ChuDe3\\BaiTap\\Lab05\\Form2.cs",
+              "RelativeToolTip": "BaiTap\\Lab05\\Form2.cs",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAlwGAAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-27T03:40:21.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form2.cs [Design]",
+              "DocumentMoniker": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\ChuDe3\\ChuDe3\\BaiTap\\Lab05\\Form2.cs",
+              "RelativeDocumentMoniker": "BaiTap\\Lab05\\Form2.cs",
+              "ToolTip": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\ChuDe3\\ChuDe3\\BaiTap\\Lab05\\Form2.cs [Design]",
+              "RelativeToolTip": "BaiTap\\Lab05\\Form2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-27T03:40:20.664Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Book.cs",
+              "DocumentMoniker": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\ChuDe3\\ChuDe3\\HT_3_P2\\Book.cs",
+              "RelativeDocumentMoniker": "HT_3_P2\\Book.cs",
+              "ToolTip": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\ChuDe3\\ChuDe3\\HT_3_P2\\Book.cs",
+              "RelativeToolTip": "HT_3_P2\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-27T03:33:56.461Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "books.xml",
+              "DocumentMoniker": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\ChuDe3\\ChuDe3\\HT_3_P2\\books.xml",
+              "RelativeDocumentMoniker": "HT_3_P2\\books.xml",
+              "ToolTip": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\ChuDe3\\ChuDe3\\HT_3_P2\\books.xml",
+              "RelativeToolTip": "HT_3_P2\\books.xml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2025-09-27T03:31:20.312Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\ChuDe3\\ChuDe3\\HT_3_P2\\Program.cs",
+              "RelativeDocumentMoniker": "HT_3_P2\\Program.cs",
+              "ToolTip": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\ChuDe3\\ChuDe3\\HT_3_P2\\Program.cs",
+              "RelativeToolTip": "HT_3_P2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-27T03:30:45.562Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "books.xml",
+              "DocumentMoniker": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\ChuDe3\\ChuDe3\\HT_3\\books.xml",
+              "RelativeDocumentMoniker": "HT_3\\books.xml",
+              "ToolTip": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\ChuDe3\\ChuDe3\\HT_3\\books.xml",
+              "RelativeToolTip": "HT_3\\books.xml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2025-09-27T03:30:45.876Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\ChuDe3\\ChuDe3\\HT_3\\Program.cs",
+              "RelativeDocumentMoniker": "HT_3\\Program.cs",
+              "ToolTip": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\ChuDe3\\ChuDe3\\HT_3\\Program.cs",
+              "RelativeToolTip": "HT_3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-27T03:30:45.88Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "students.json",
+              "DocumentMoniker": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\ChuDe3\\ChuDe3\\HT_2\\students.json",
+              "RelativeDocumentMoniker": "HT_2\\students.json",
+              "ToolTip": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\ChuDe3\\ChuDe3\\HT_2\\students.json",
+              "RelativeToolTip": "HT_2\\students.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-27T03:30:45.882Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\ChuDe3\\ChuDe3\\HT_2\\Program.cs",
+              "RelativeDocumentMoniker": "HT_2\\Program.cs",
+              "ToolTip": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\ChuDe3\\ChuDe3\\HT_2\\Program.cs",
+              "RelativeToolTip": "HT_2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-27T03:30:45.884Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "frmReadJson.cs",
+              "DocumentMoniker": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\ChuDe3\\ChuDe3\\HT_2\\frmReadJson.cs",
+              "RelativeDocumentMoniker": "HT_2\\frmReadJson.cs",
+              "ToolTip": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\ChuDe3\\ChuDe3\\HT_2\\frmReadJson.cs",
+              "RelativeToolTip": "HT_2\\frmReadJson.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAowDsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-27T03:30:45.886Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "StudentInfo.cs",
+              "DocumentMoniker": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\ChuDe3\\ChuDe3\\HT_2\\StudentInfo.cs",
+              "RelativeDocumentMoniker": "HT_2\\StudentInfo.cs",
+              "ToolTip": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\ChuDe3\\ChuDe3\\HT_2\\StudentInfo.cs",
+              "RelativeToolTip": "HT_2\\StudentInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-27T03:30:45.888Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "frmReadJson.cs [Design]",
+              "DocumentMoniker": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\ChuDe3\\ChuDe3\\HT_2\\frmReadJson.cs",
+              "RelativeDocumentMoniker": "HT_2\\frmReadJson.cs",
+              "ToolTip": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\ChuDe3\\ChuDe3\\HT_2\\frmReadJson.cs [Design]",
+              "RelativeToolTip": "HT_2\\frmReadJson.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-27T03:30:45.89Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\ChuDe3\\ChuDe3\\ChuDe3\\Program.cs",
+              "RelativeDocumentMoniker": "ChuDe3\\Program.cs",
+              "ToolTip": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\ChuDe3\\ChuDe3\\ChuDe3\\Program.cs",
+              "RelativeToolTip": "ChuDe3\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAQwBQAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-27T03:30:45.893Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
