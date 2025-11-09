@@ -1,0 +1,30 @@
+Z:\357_PC726_2212357_ Bùi Hùng Đức\Lab_Advanced_Command\bin\Debug\Lab_Advanced_Command.exe.config
+Z:\357_PC726_2212357_ Bùi Hùng Đức\Lab_Advanced_Command\bin\Debug\Lab_Advanced_Command.exe
+Z:\357_PC726_2212357_ Bùi Hùng Đức\Lab_Advanced_Command\bin\Debug\Lab_Advanced_Command.pdb
+Z:\357_PC726_2212357_ Bùi Hùng Đức\Lab_Advanced_Command\obj\Debug\Lab_Advanced_Command.csproj.AssemblyReference.cache
+Z:\357_PC726_2212357_ Bùi Hùng Đức\Lab_Advanced_Command\obj\Debug\Lab_Advanced_Command.FoodForm.resources
+Z:\357_PC726_2212357_ Bùi Hùng Đức\Lab_Advanced_Command\obj\Debug\Lab_Advanced_Command.Properties.Resources.resources
+Z:\357_PC726_2212357_ Bùi Hùng Đức\Lab_Advanced_Command\obj\Debug\Lab_Advanced_Command.csproj.GenerateResource.cache
+Z:\357_PC726_2212357_ Bùi Hùng Đức\Lab_Advanced_Command\obj\Debug\Lab_Advanced_Command.csproj.CoreCompileInputs.cache
+Z:\357_PC726_2212357_ Bùi Hùng Đức\Lab_Advanced_Command\obj\Debug\Lab_Advanced_Command.exe
+Z:\357_PC726_2212357_ Bùi Hùng Đức\Lab_Advanced_Command\obj\Debug\Lab_Advanced_Command.pdb
+Z:\357_PC726_2212357_ Bùi Hùng Đức\Lab_Advanced_Command\obj\Debug\Lab_Advanced_Command.FoodInfoForm.resources
+D:\Vương\Nam 3 Ki 1\Phát triển ứng dụng desktop\Lab_Advanced_Command-20251022T123413Z-1-001\Lab_Advanced_Command\bin\Debug\Lab_Advanced_Command.exe.config
+D:\Vương\Nam 3 Ki 1\Phát triển ứng dụng desktop\Lab_Advanced_Command-20251022T123413Z-1-001\Lab_Advanced_Command\bin\Debug\Lab_Advanced_Command.exe
+D:\Vương\Nam 3 Ki 1\Phát triển ứng dụng desktop\Lab_Advanced_Command-20251022T123413Z-1-001\Lab_Advanced_Command\bin\Debug\Lab_Advanced_Command.pdb
+D:\Vương\Nam 3 Ki 1\Phát triển ứng dụng desktop\Lab_Advanced_Command-20251022T123413Z-1-001\Lab_Advanced_Command\obj\Debug\Lab_Advanced_Command.csproj.AssemblyReference.cache
+D:\Vương\Nam 3 Ki 1\Phát triển ứng dụng desktop\Lab_Advanced_Command-20251022T123413Z-1-001\Lab_Advanced_Command\obj\Debug\Lab_Advanced_Command.exe.config
+D:\Vương\Nam 3 Ki 1\Phát triển ứng dụng desktop\Lab_Advanced_Command-20251022T123413Z-1-001\Lab_Advanced_Command\obj\Debug\Lab_Advanced_Command.FoodInfoForm.resources
+D:\Vương\Nam 3 Ki 1\Phát triển ứng dụng desktop\Lab_Advanced_Command-20251022T123413Z-1-001\Lab_Advanced_Command\obj\Debug\Lab_Advanced_Command.FoodForm.resources
+D:\Vương\Nam 3 Ki 1\Phát triển ứng dụng desktop\Lab_Advanced_Command-20251022T123413Z-1-001\Lab_Advanced_Command\obj\Debug\Lab_Advanced_Command.Properties.Resources.resources
+D:\Vương\Nam 3 Ki 1\Phát triển ứng dụng desktop\Lab_Advanced_Command-20251022T123413Z-1-001\Lab_Advanced_Command\obj\Debug\Lab_Advanced_Command.csproj.GenerateResource.cache
+D:\Vương\Nam 3 Ki 1\Phát triển ứng dụng desktop\Lab_Advanced_Command-20251022T123413Z-1-001\Lab_Advanced_Command\obj\Debug\Lab_Advanced_Command.csproj.CoreCompileInputs.cache
+D:\Vương\Nam 3 Ki 1\Phát triển ứng dụng desktop\Lab_Advanced_Command-20251022T123413Z-1-001\Lab_Advanced_Command\obj\Debug\Lab_Advanced_Command.exe
+D:\Vương\Nam 3 Ki 1\Phát triển ứng dụng desktop\Lab_Advanced_Command-20251022T123413Z-1-001\Lab_Advanced_Command\obj\Debug\Lab_Advanced_Command.pdb
+D:\Vương\Nam 3 Ki 1\Phát triển ứng dụng desktop\Lab_Advanced_Command-20251022T123413Z-1-001\Lab_Advanced_Command\obj\Debug\Lab_Advanced_Command.CategoryForm.resources
+D:\Vương\Nam 3 Ki 1\Phát triển ứng dụng desktop\Lab_Advanced_Command-20251022T123413Z-1-001\Lab_Advanced_Command\obj\Debug\Lab_Advanced_Command.OrdersForm.resources
+D:\Vương\Nam 3 Ki 1\Phát triển ứng dụng desktop\Lab_Advanced_Command-20251022T123413Z-1-001\Lab_Advanced_Command\obj\Debug\Lab_Advanced_Command.OrderDetailsForm.resources
+D:\Vương\Nam 3 Ki 1\Phát triển ứng dụng desktop\Lab_Advanced_Command-20251022T123413Z-1-001\Lab_Advanced_Command\obj\Debug\Lab_Advanced_Command.AccountForm.resources
+D:\Vương\Nam 3 Ki 1\Phát triển ứng dụng desktop\Lab_Advanced_Command-20251022T123413Z-1-001\Lab_Advanced_Command\obj\Debug\Lab_Advanced_Command.ActivityForm.resources
+D:\Vương\Nam 3 Ki 1\Phát triển ứng dụng desktop\Lab_Advanced_Command-20251022T123413Z-1-001\Lab_Advanced_Command\obj\Debug\Lab_Advanced_Command.RoleForm.resources
+D:\Vương\Nam 3 Ki 1\Phát triển ứng dụng desktop\Lab_Advanced_Command-20251022T123413Z-1-001\Lab_Advanced_Command\obj\Debug\Lab_Advanced_Command.MainForm.resources

@@ -1,0 +1,742 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Lap Trinh Mang\\RestaurantManagementProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9C92A492-4177-4D43-9B1F-9DD5EBE909B3}|DataAccess\\DataAccess.csproj|D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Lap Trinh Mang\\RestaurantManagementProject\\dataaccess\\billda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C92A492-4177-4D43-9B1F-9DD5EBE909B3}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\billda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C92A492-4177-4D43-9B1F-9DD5EBE909B3}|DataAccess\\DataAccess.csproj|D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Lap Trinh Mang\\RestaurantManagementProject\\dataaccess\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C92A492-4177-4D43-9B1F-9DD5EBE909B3}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C92A492-4177-4D43-9B1F-9DD5EBE909B3}|DataAccess\\DataAccess.csproj|D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Lap Trinh Mang\\RestaurantManagementProject\\dataaccess\\categoryda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C92A492-4177-4D43-9B1F-9DD5EBE909B3}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\categoryda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C92A492-4177-4D43-9B1F-9DD5EBE909B3}|DataAccess\\DataAccess.csproj|D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Lap Trinh Mang\\RestaurantManagementProject\\dataaccess\\food.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C92A492-4177-4D43-9B1F-9DD5EBE909B3}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\food.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C92A492-4177-4D43-9B1F-9DD5EBE909B3}|DataAccess\\DataAccess.csproj|D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Lap Trinh Mang\\RestaurantManagementProject\\dataaccess\\foodda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C92A492-4177-4D43-9B1F-9DD5EBE909B3}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\foodda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEFA35CE-9272-4E51-8C9C-2FE5731022F8}|RestaurantManagementProject\\RestaurantManagementProject.csproj|d:\\v\u01B0\u01A1ng\\nam 3 ki 1\\lap trinh mang\\restaurantmanagementproject\\restaurantmanagementproject\\frmfood.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AEFA35CE-9272-4E51-8C9C-2FE5731022F8}|RestaurantManagementProject\\RestaurantManagementProject.csproj|solutionrelative:restaurantmanagementproject\\frmfood.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEFA35CE-9272-4E51-8C9C-2FE5731022F8}|RestaurantManagementProject\\RestaurantManagementProject.csproj|D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Lap Trinh Mang\\RestaurantManagementProject\\restaurantmanagementproject\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AEFA35CE-9272-4E51-8C9C-2FE5731022F8}|RestaurantManagementProject\\RestaurantManagementProject.csproj|solutionrelative:restaurantmanagementproject\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEFA35CE-9272-4E51-8C9C-2FE5731022F8}|RestaurantManagementProject\\RestaurantManagementProject.csproj|D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Lap Trinh Mang\\RestaurantManagementProject\\restaurantmanagementproject\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AEFA35CE-9272-4E51-8C9C-2FE5731022F8}|RestaurantManagementProject\\RestaurantManagementProject.csproj|solutionrelative:restaurantmanagementproject\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEFA35CE-9272-4E51-8C9C-2FE5731022F8}|RestaurantManagementProject\\RestaurantManagementProject.csproj|D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Lap Trinh Mang\\RestaurantManagementProject\\restaurantmanagementproject\\frmtable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AEFA35CE-9272-4E51-8C9C-2FE5731022F8}|RestaurantManagementProject\\RestaurantManagementProject.csproj|solutionrelative:restaurantmanagementproject\\frmtable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEFA35CE-9272-4E51-8C9C-2FE5731022F8}|RestaurantManagementProject\\RestaurantManagementProject.csproj|D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Lap Trinh Mang\\RestaurantManagementProject\\restaurantmanagementproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEFA35CE-9272-4E51-8C9C-2FE5731022F8}|RestaurantManagementProject\\RestaurantManagementProject.csproj|solutionrelative:restaurantmanagementproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEFA35CE-9272-4E51-8C9C-2FE5731022F8}|RestaurantManagementProject\\RestaurantManagementProject.csproj|D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Lap Trinh Mang\\RestaurantManagementProject\\restaurantmanagementproject\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEFA35CE-9272-4E51-8C9C-2FE5731022F8}|RestaurantManagementProject\\RestaurantManagementProject.csproj|solutionrelative:restaurantmanagementproject\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEFA35CE-9272-4E51-8C9C-2FE5731022F8}|RestaurantManagementProject\\RestaurantManagementProject.csproj|D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Lap Trinh Mang\\RestaurantManagementProject\\restaurantmanagementproject\\frmbill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AEFA35CE-9272-4E51-8C9C-2FE5731022F8}|RestaurantManagementProject\\RestaurantManagementProject.csproj|solutionrelative:restaurantmanagementproject\\frmbill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEFA35CE-9272-4E51-8C9C-2FE5731022F8}|RestaurantManagementProject\\RestaurantManagementProject.csproj|D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Lap Trinh Mang\\RestaurantManagementProject\\restaurantmanagementproject\\frmaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEFA35CE-9272-4E51-8C9C-2FE5731022F8}|RestaurantManagementProject\\RestaurantManagementProject.csproj|solutionrelative:restaurantmanagementproject\\frmaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEFA35CE-9272-4E51-8C9C-2FE5731022F8}|RestaurantManagementProject\\RestaurantManagementProject.csproj|D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Lap Trinh Mang\\RestaurantManagementProject\\restaurantmanagementproject\\frmaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AEFA35CE-9272-4E51-8C9C-2FE5731022F8}|RestaurantManagementProject\\RestaurantManagementProject.csproj|solutionrelative:restaurantmanagementproject\\frmaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEFA35CE-9272-4E51-8C9C-2FE5731022F8}|RestaurantManagementProject\\RestaurantManagementProject.csproj|D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Lap Trinh Mang\\RestaurantManagementProject\\restaurantmanagementproject\\frmaccountroles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AEFA35CE-9272-4E51-8C9C-2FE5731022F8}|RestaurantManagementProject\\RestaurantManagementProject.csproj|solutionrelative:restaurantmanagementproject\\frmaccountroles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEFA35CE-9272-4E51-8C9C-2FE5731022F8}|RestaurantManagementProject\\RestaurantManagementProject.csproj|D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Lap Trinh Mang\\RestaurantManagementProject\\restaurantmanagementproject\\frmcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AEFA35CE-9272-4E51-8C9C-2FE5731022F8}|RestaurantManagementProject\\RestaurantManagementProject.csproj|solutionrelative:restaurantmanagementproject\\frmcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEFA35CE-9272-4E51-8C9C-2FE5731022F8}|RestaurantManagementProject\\RestaurantManagementProject.csproj|D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Lap Trinh Mang\\RestaurantManagementProject\\restaurantmanagementproject\\frmaccountroles.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEFA35CE-9272-4E51-8C9C-2FE5731022F8}|RestaurantManagementProject\\RestaurantManagementProject.csproj|solutionrelative:restaurantmanagementproject\\frmaccountroles.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEFA35CE-9272-4E51-8C9C-2FE5731022F8}|RestaurantManagementProject\\RestaurantManagementProject.csproj|D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Lap Trinh Mang\\RestaurantManagementProject\\restaurantmanagementproject\\frmaccount.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEFA35CE-9272-4E51-8C9C-2FE5731022F8}|RestaurantManagementProject\\RestaurantManagementProject.csproj|solutionrelative:restaurantmanagementproject\\frmaccount.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Lap Trinh Mang\\RestaurantManagementProject\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEFA35CE-9272-4E51-8C9C-2FE5731022F8}|RestaurantManagementProject\\RestaurantManagementProject.csproj|D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Lap Trinh Mang\\RestaurantManagementProject\\restaurantmanagementproject\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEFA35CE-9272-4E51-8C9C-2FE5731022F8}|RestaurantManagementProject\\RestaurantManagementProject.csproj|solutionrelative:restaurantmanagementproject\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D511E97-4545-4A95-9777-ADD7B8E50646}|BusinessLogic\\BusinessLogic.csproj|D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Lap Trinh Mang\\RestaurantManagementProject\\businesslogic\\billbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D511E97-4545-4A95-9777-ADD7B8E50646}|BusinessLogic\\BusinessLogic.csproj|solutionrelative:businesslogic\\billbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEFA35CE-9272-4E51-8C9C-2FE5731022F8}|RestaurantManagementProject\\RestaurantManagementProject.csproj|D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Lap Trinh Mang\\RestaurantManagementProject\\restaurantmanagementproject\\frmbill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEFA35CE-9272-4E51-8C9C-2FE5731022F8}|RestaurantManagementProject\\RestaurantManagementProject.csproj|solutionrelative:restaurantmanagementproject\\frmbill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D511E97-4545-4A95-9777-ADD7B8E50646}|BusinessLogic\\BusinessLogic.csproj|D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Lap Trinh Mang\\RestaurantManagementProject\\businesslogic\\accountbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D511E97-4545-4A95-9777-ADD7B8E50646}|BusinessLogic\\BusinessLogic.csproj|solutionrelative:businesslogic\\accountbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C92A492-4177-4D43-9B1F-9DD5EBE909B3}|DataAccess\\DataAccess.csproj|D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Lap Trinh Mang\\RestaurantManagementProject\\dataaccess\\bill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C92A492-4177-4D43-9B1F-9DD5EBE909B3}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\bill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C92A492-4177-4D43-9B1F-9DD5EBE909B3}|DataAccess\\DataAccess.csproj|D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Lap Trinh Mang\\RestaurantManagementProject\\dataaccess\\utilities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C92A492-4177-4D43-9B1F-9DD5EBE909B3}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\utilities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEFA35CE-9272-4E51-8C9C-2FE5731022F8}|RestaurantManagementProject\\RestaurantManagementProject.csproj|D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Lap Trinh Mang\\RestaurantManagementProject\\restaurantmanagementproject\\frmmain.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEFA35CE-9272-4E51-8C9C-2FE5731022F8}|RestaurantManagementProject\\RestaurantManagementProject.csproj|solutionrelative:restaurantmanagementproject\\frmmain.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C92A492-4177-4D43-9B1F-9DD5EBE909B3}|DataAccess\\DataAccess.csproj|D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Lap Trinh Mang\\RestaurantManagementProject\\dataaccess\\tableda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C92A492-4177-4D43-9B1F-9DD5EBE909B3}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\tableda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C92A492-4177-4D43-9B1F-9DD5EBE909B3}|DataAccess\\DataAccess.csproj|D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Lap Trinh Mang\\RestaurantManagementProject\\dataaccess\\table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C92A492-4177-4D43-9B1F-9DD5EBE909B3}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C92A492-4177-4D43-9B1F-9DD5EBE909B3}|DataAccess\\DataAccess.csproj|D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Lap Trinh Mang\\RestaurantManagementProject\\dataaccess\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C92A492-4177-4D43-9B1F-9DD5EBE909B3}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D511E97-4545-4A95-9777-ADD7B8E50646}|BusinessLogic\\BusinessLogic.csproj|D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Lap Trinh Mang\\RestaurantManagementProject\\businesslogic\\categorybl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D511E97-4545-4A95-9777-ADD7B8E50646}|BusinessLogic\\BusinessLogic.csproj|solutionrelative:businesslogic\\categorybl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D511E97-4545-4A95-9777-ADD7B8E50646}|BusinessLogic\\BusinessLogic.csproj|D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Lap Trinh Mang\\RestaurantManagementProject\\businesslogic\\foodbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D511E97-4545-4A95-9777-ADD7B8E50646}|BusinessLogic\\BusinessLogic.csproj|solutionrelative:businesslogic\\foodbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D511E97-4545-4A95-9777-ADD7B8E50646}|BusinessLogic\\BusinessLogic.csproj|D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Lap Trinh Mang\\RestaurantManagementProject\\businesslogic\\tablebl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D511E97-4545-4A95-9777-ADD7B8E50646}|BusinessLogic\\BusinessLogic.csproj|solutionrelative:businesslogic\\tablebl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEFA35CE-9272-4E51-8C9C-2FE5731022F8}|RestaurantManagementProject\\RestaurantManagementProject.csproj|D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Lap Trinh Mang\\RestaurantManagementProject\\restaurantmanagementproject\\frmtable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEFA35CE-9272-4E51-8C9C-2FE5731022F8}|RestaurantManagementProject\\RestaurantManagementProject.csproj|solutionrelative:restaurantmanagementproject\\frmtable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEFA35CE-9272-4E51-8C9C-2FE5731022F8}|RestaurantManagementProject\\RestaurantManagementProject.csproj|D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Lap Trinh Mang\\RestaurantManagementProject\\restaurantmanagementproject\\frmtable.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEFA35CE-9272-4E51-8C9C-2FE5731022F8}|RestaurantManagementProject\\RestaurantManagementProject.csproj|solutionrelative:restaurantmanagementproject\\frmtable.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEFA35CE-9272-4E51-8C9C-2FE5731022F8}|RestaurantManagementProject\\RestaurantManagementProject.csproj|D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Lap Trinh Mang\\RestaurantManagementProject\\restaurantmanagementproject\\frmaccountroles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEFA35CE-9272-4E51-8C9C-2FE5731022F8}|RestaurantManagementProject\\RestaurantManagementProject.csproj|solutionrelative:restaurantmanagementproject\\frmaccountroles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C92A492-4177-4D43-9B1F-9DD5EBE909B3}|DataAccess\\DataAccess.csproj|D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Lap Trinh Mang\\RestaurantManagementProject\\dataaccess\\accountda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C92A492-4177-4D43-9B1F-9DD5EBE909B3}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\accountda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEFA35CE-9272-4E51-8C9C-2FE5731022F8}|RestaurantManagementProject\\RestaurantManagementProject.csproj|D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Lap Trinh Mang\\RestaurantManagementProject\\restaurantmanagementproject\\frmlogin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEFA35CE-9272-4E51-8C9C-2FE5731022F8}|RestaurantManagementProject\\RestaurantManagementProject.csproj|solutionrelative:restaurantmanagementproject\\frmlogin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C92A492-4177-4D43-9B1F-9DD5EBE909B3}|DataAccess\\DataAccess.csproj|D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Lap Trinh Mang\\RestaurantManagementProject\\dataaccess\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C92A492-4177-4D43-9B1F-9DD5EBE909B3}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C92A492-4177-4D43-9B1F-9DD5EBE909B3}|DataAccess\\DataAccess.csproj|D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Lap Trinh Mang\\RestaurantManagementProject\\dataaccess\\roleda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C92A492-4177-4D43-9B1F-9DD5EBE909B3}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\roleda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D511E97-4545-4A95-9777-ADD7B8E50646}|BusinessLogic\\BusinessLogic.csproj|D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Lap Trinh Mang\\RestaurantManagementProject\\businesslogic\\rolebl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D511E97-4545-4A95-9777-ADD7B8E50646}|BusinessLogic\\BusinessLogic.csproj|solutionrelative:businesslogic\\rolebl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEFA35CE-9272-4E51-8C9C-2FE5731022F8}|RestaurantManagementProject\\RestaurantManagementProject.csproj|D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Lap Trinh Mang\\RestaurantManagementProject\\restaurantmanagementproject\\frmcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEFA35CE-9272-4E51-8C9C-2FE5731022F8}|RestaurantManagementProject\\RestaurantManagementProject.csproj|solutionrelative:restaurantmanagementproject\\frmcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEFA35CE-9272-4E51-8C9C-2FE5731022F8}|RestaurantManagementProject\\RestaurantManagementProject.csproj|D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Lap Trinh Mang\\RestaurantManagementProject\\restaurantmanagementproject\\frmcategory.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEFA35CE-9272-4E51-8C9C-2FE5731022F8}|RestaurantManagementProject\\RestaurantManagementProject.csproj|solutionrelative:restaurantmanagementproject\\frmcategory.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEFA35CE-9272-4E51-8C9C-2FE5731022F8}|RestaurantManagementProject\\RestaurantManagementProject.csproj|D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Lap Trinh Mang\\RestaurantManagementProject\\restaurantmanagementproject\\frmfood.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEFA35CE-9272-4E51-8C9C-2FE5731022F8}|RestaurantManagementProject\\RestaurantManagementProject.csproj|solutionrelative:restaurantmanagementproject\\frmfood.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEFA35CE-9272-4E51-8C9C-2FE5731022F8}|RestaurantManagementProject\\RestaurantManagementProject.csproj|D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Lap Trinh Mang\\RestaurantManagementProject\\restaurantmanagementproject\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{AEFA35CE-9272-4E51-8C9C-2FE5731022F8}|RestaurantManagementProject\\RestaurantManagementProject.csproj|solutionrelative:restaurantmanagementproject\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEFA35CE-9272-4E51-8C9C-2FE5731022F8}|RestaurantManagementProject\\RestaurantManagementProject.csproj|D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Lap Trinh Mang\\RestaurantManagementProject\\restaurantmanagementproject\\frmfood.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEFA35CE-9272-4E51-8C9C-2FE5731022F8}|RestaurantManagementProject\\RestaurantManagementProject.csproj|solutionrelative:restaurantmanagementproject\\frmfood.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmFood.cs [Design]",
+              "DocumentMoniker": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Lap Trinh Mang\\RestaurantManagementProject\\RestaurantManagementProject\\frmFood.cs",
+              "RelativeDocumentMoniker": "RestaurantManagementProject\\frmFood.cs",
+              "ToolTip": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Lap Trinh Mang\\RestaurantManagementProject\\RestaurantManagementProject\\frmFood.cs [Design]",
+              "RelativeToolTip": "RestaurantManagementProject\\frmFood.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T06:20:00.152Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "frmMain.cs",
+              "DocumentMoniker": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Lap Trinh Mang\\RestaurantManagementProject\\RestaurantManagementProject\\frmMain.cs",
+              "RelativeDocumentMoniker": "RestaurantManagementProject\\frmMain.cs",
+              "ToolTip": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Lap Trinh Mang\\RestaurantManagementProject\\RestaurantManagementProject\\frmMain.cs",
+              "RelativeToolTip": "RestaurantManagementProject\\frmMain.cs",
+              "ViewState": "AgIAAFACAAAAAAAAAAA4wG4CAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T12:53:33.889Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "frmBill.cs [Design]",
+              "DocumentMoniker": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Lap Trinh Mang\\RestaurantManagementProject\\RestaurantManagementProject\\frmBill.cs",
+              "RelativeDocumentMoniker": "RestaurantManagementProject\\frmBill.cs",
+              "ToolTip": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Lap Trinh Mang\\RestaurantManagementProject\\RestaurantManagementProject\\frmBill.cs [Design]",
+              "RelativeToolTip": "RestaurantManagementProject\\frmBill.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T03:52:53.239Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FoodDA.cs",
+              "DocumentMoniker": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Lap Trinh Mang\\RestaurantManagementProject\\DataAccess\\FoodDA.cs",
+              "RelativeDocumentMoniker": "DataAccess\\FoodDA.cs",
+              "ToolTip": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Lap Trinh Mang\\RestaurantManagementProject\\DataAccess\\FoodDA.cs",
+              "RelativeToolTip": "DataAccess\\FoodDA.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAkwAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T21:05:07.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Food.cs",
+              "DocumentMoniker": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Lap Trinh Mang\\RestaurantManagementProject\\DataAccess\\Food.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Food.cs",
+              "ToolTip": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Lap Trinh Mang\\RestaurantManagementProject\\DataAccess\\Food.cs",
+              "RelativeToolTip": "DataAccess\\Food.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAwB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T21:00:51.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CategoryDA.cs",
+              "DocumentMoniker": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Lap Trinh Mang\\RestaurantManagementProject\\DataAccess\\CategoryDA.cs",
+              "RelativeDocumentMoniker": "DataAccess\\CategoryDA.cs",
+              "ToolTip": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Lap Trinh Mang\\RestaurantManagementProject\\DataAccess\\CategoryDA.cs",
+              "RelativeToolTip": "DataAccess\\CategoryDA.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T21:04:11.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Category.cs",
+              "DocumentMoniker": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Lap Trinh Mang\\RestaurantManagementProject\\DataAccess\\Category.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Category.cs",
+              "ToolTip": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Lap Trinh Mang\\RestaurantManagementProject\\DataAccess\\Category.cs",
+              "RelativeToolTip": "DataAccess\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T21:01:20.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BillDA.cs",
+              "DocumentMoniker": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Lap Trinh Mang\\RestaurantManagementProject\\DataAccess\\BillDA.cs",
+              "RelativeDocumentMoniker": "DataAccess\\BillDA.cs",
+              "ToolTip": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Lap Trinh Mang\\RestaurantManagementProject\\DataAccess\\BillDA.cs",
+              "RelativeToolTip": "DataAccess\\BillDA.cs",
+              "ViewState": "AgIAAIwAAAAAAAAAAAAgwIoAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T03:25:20.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Lap Trinh Mang\\RestaurantManagementProject\\RestaurantManagementProject\\Program.cs",
+              "RelativeDocumentMoniker": "RestaurantManagementProject\\Program.cs",
+              "ToolTip": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Lap Trinh Mang\\RestaurantManagementProject\\RestaurantManagementProject\\Program.cs",
+              "RelativeToolTip": "RestaurantManagementProject\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAqwBIAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T07:34:29.193Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "frmMain.cs [Design]",
+              "DocumentMoniker": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Lap Trinh Mang\\RestaurantManagementProject\\RestaurantManagementProject\\frmMain.cs",
+              "RelativeDocumentMoniker": "RestaurantManagementProject\\frmMain.cs",
+              "ToolTip": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Lap Trinh Mang\\RestaurantManagementProject\\RestaurantManagementProject\\frmMain.cs [Design]",
+              "RelativeToolTip": "RestaurantManagementProject\\frmMain.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T07:09:28.779Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "frmTable.cs [Design]",
+              "DocumentMoniker": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Lap Trinh Mang\\RestaurantManagementProject\\RestaurantManagementProject\\frmTable.cs",
+              "RelativeDocumentMoniker": "RestaurantManagementProject\\frmTable.cs",
+              "ToolTip": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Lap Trinh Mang\\RestaurantManagementProject\\RestaurantManagementProject\\frmTable.cs [Design]",
+              "RelativeToolTip": "RestaurantManagementProject\\frmTable.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T03:27:44.279Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frmLogin.cs [Design]",
+              "DocumentMoniker": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Lap Trinh Mang\\RestaurantManagementProject\\RestaurantManagementProject\\frmLogin.cs",
+              "RelativeDocumentMoniker": "RestaurantManagementProject\\frmLogin.cs",
+              "ToolTip": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Lap Trinh Mang\\RestaurantManagementProject\\RestaurantManagementProject\\frmLogin.cs [Design]",
+              "RelativeToolTip": "RestaurantManagementProject\\frmLogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T10:45:54.653Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "frmAccount.cs",
+              "DocumentMoniker": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Lap Trinh Mang\\RestaurantManagementProject\\RestaurantManagementProject\\frmAccount.cs",
+              "RelativeDocumentMoniker": "RestaurantManagementProject\\frmAccount.cs",
+              "ToolTip": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Lap Trinh Mang\\RestaurantManagementProject\\RestaurantManagementProject\\frmAccount.cs",
+              "RelativeToolTip": "RestaurantManagementProject\\frmAccount.cs",
+              "ViewState": "AgIAAH0AAAAAAAAAAAAuwJYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T03:27:20.409Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "frmAccount.cs [Design]",
+              "DocumentMoniker": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Lap Trinh Mang\\RestaurantManagementProject\\RestaurantManagementProject\\frmAccount.cs",
+              "RelativeDocumentMoniker": "RestaurantManagementProject\\frmAccount.cs",
+              "ToolTip": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Lap Trinh Mang\\RestaurantManagementProject\\RestaurantManagementProject\\frmAccount.cs [Design]",
+              "RelativeToolTip": "RestaurantManagementProject\\frmAccount.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T03:27:15.029Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "frmAccountRoles.cs [Design]",
+              "DocumentMoniker": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Lap Trinh Mang\\RestaurantManagementProject\\RestaurantManagementProject\\frmAccountRoles.cs",
+              "RelativeDocumentMoniker": "RestaurantManagementProject\\frmAccountRoles.cs",
+              "ToolTip": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Lap Trinh Mang\\RestaurantManagementProject\\RestaurantManagementProject\\frmAccountRoles.cs [Design]",
+              "RelativeToolTip": "RestaurantManagementProject\\frmAccountRoles.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T04:15:48.014Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "frmCategory.cs [Design]",
+              "DocumentMoniker": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Lap Trinh Mang\\RestaurantManagementProject\\RestaurantManagementProject\\frmCategory.cs",
+              "RelativeDocumentMoniker": "RestaurantManagementProject\\frmCategory.cs",
+              "ToolTip": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Lap Trinh Mang\\RestaurantManagementProject\\RestaurantManagementProject\\frmCategory.cs [Design]",
+              "RelativeToolTip": "RestaurantManagementProject\\frmCategory.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T02:45:45.478Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "frmAccountRoles.Designer.cs",
+              "DocumentMoniker": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Lap Trinh Mang\\RestaurantManagementProject\\RestaurantManagementProject\\frmAccountRoles.Designer.cs",
+              "RelativeDocumentMoniker": "RestaurantManagementProject\\frmAccountRoles.Designer.cs",
+              "ToolTip": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Lap Trinh Mang\\RestaurantManagementProject\\RestaurantManagementProject\\frmAccountRoles.Designer.cs",
+              "RelativeToolTip": "RestaurantManagementProject\\frmAccountRoles.Designer.cs",
+              "ViewState": "AgIAAMgAAAAAAAAAAAAAAMsAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T04:15:54.034Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "frmAccount.Designer.cs",
+              "DocumentMoniker": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Lap Trinh Mang\\RestaurantManagementProject\\RestaurantManagementProject\\frmAccount.Designer.cs",
+              "RelativeDocumentMoniker": "RestaurantManagementProject\\frmAccount.Designer.cs",
+              "ToolTip": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Lap Trinh Mang\\RestaurantManagementProject\\RestaurantManagementProject\\frmAccount.Designer.cs",
+              "RelativeToolTip": "RestaurantManagementProject\\frmAccount.Designer.cs",
+              "ViewState": "AgIAAHQBAAAAAAAAAAAkwJIBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T23:09:26.882Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Lap Trinh Mang\\RestaurantManagementProject\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Lap Trinh Mang\\RestaurantManagementProject\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T07:19:01.468Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "frmAccountRoles.cs",
+              "DocumentMoniker": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Lap Trinh Mang\\RestaurantManagementProject\\RestaurantManagementProject\\frmAccountRoles.cs",
+              "RelativeDocumentMoniker": "RestaurantManagementProject\\frmAccountRoles.cs",
+              "ToolTip": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Lap Trinh Mang\\RestaurantManagementProject\\RestaurantManagementProject\\frmAccountRoles.cs",
+              "RelativeToolTip": "RestaurantManagementProject\\frmAccountRoles.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAYwB4AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T04:15:50.024Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "frmBill.cs",
+              "DocumentMoniker": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Lap Trinh Mang\\RestaurantManagementProject\\RestaurantManagementProject\\frmBill.cs",
+              "RelativeDocumentMoniker": "RestaurantManagementProject\\frmBill.cs",
+              "ToolTip": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Lap Trinh Mang\\RestaurantManagementProject\\RestaurantManagementProject\\frmBill.cs",
+              "RelativeToolTip": "RestaurantManagementProject\\frmBill.cs",
+              "ViewState": "AgIAABYCAAAAAAAAAAAgwBoCAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T03:53:23.235Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "frmTable.Designer.cs",
+              "DocumentMoniker": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Lap Trinh Mang\\RestaurantManagementProject\\RestaurantManagementProject\\frmTable.Designer.cs",
+              "RelativeDocumentMoniker": "RestaurantManagementProject\\frmTable.Designer.cs",
+              "ToolTip": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Lap Trinh Mang\\RestaurantManagementProject\\RestaurantManagementProject\\frmTable.Designer.cs",
+              "RelativeToolTip": "RestaurantManagementProject\\frmTable.Designer.cs",
+              "ViewState": "AgIAAEYBAAAAAAAAAAAAwEgBAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T03:46:34.209Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "frmTable.cs",
+              "DocumentMoniker": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Lap Trinh Mang\\RestaurantManagementProject\\RestaurantManagementProject\\frmTable.cs",
+              "RelativeDocumentMoniker": "RestaurantManagementProject\\frmTable.cs",
+              "ToolTip": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Lap Trinh Mang\\RestaurantManagementProject\\RestaurantManagementProject\\frmTable.cs",
+              "RelativeToolTip": "RestaurantManagementProject\\frmTable.cs",
+              "ViewState": "AgIAALEBAAAAAAAAAAAkwL0BAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T03:27:53.909Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "BillBL.cs",
+              "DocumentMoniker": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Lap Trinh Mang\\RestaurantManagementProject\\BusinessLogic\\BillBL.cs",
+              "RelativeDocumentMoniker": "BusinessLogic\\BillBL.cs",
+              "ToolTip": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Lap Trinh Mang\\RestaurantManagementProject\\BusinessLogic\\BillBL.cs",
+              "RelativeToolTip": "BusinessLogic\\BillBL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD0AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T03:26:27.082Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "TableBL.cs",
+              "DocumentMoniker": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Lap Trinh Mang\\RestaurantManagementProject\\BusinessLogic\\TableBL.cs",
+              "RelativeDocumentMoniker": "BusinessLogic\\TableBL.cs",
+              "ToolTip": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Lap Trinh Mang\\RestaurantManagementProject\\BusinessLogic\\TableBL.cs",
+              "RelativeToolTip": "BusinessLogic\\TableBL.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAgwD8AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T03:26:13.039Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "RoleBL.cs",
+              "DocumentMoniker": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Lap Trinh Mang\\RestaurantManagementProject\\BusinessLogic\\RoleBL.cs",
+              "RelativeDocumentMoniker": "BusinessLogic\\RoleBL.cs",
+              "ToolTip": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Lap Trinh Mang\\RestaurantManagementProject\\BusinessLogic\\RoleBL.cs",
+              "RelativeToolTip": "BusinessLogic\\RoleBL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T03:25:58.869Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AccountBL.cs",
+              "DocumentMoniker": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Lap Trinh Mang\\RestaurantManagementProject\\BusinessLogic\\AccountBL.cs",
+              "RelativeDocumentMoniker": "BusinessLogic\\AccountBL.cs",
+              "ToolTip": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Lap Trinh Mang\\RestaurantManagementProject\\BusinessLogic\\AccountBL.cs",
+              "RelativeToolTip": "BusinessLogic\\AccountBL.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAowBIAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T03:25:43.939Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Bill.cs",
+              "DocumentMoniker": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Lap Trinh Mang\\RestaurantManagementProject\\DataAccess\\Bill.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Bill.cs",
+              "ToolTip": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Lap Trinh Mang\\RestaurantManagementProject\\DataAccess\\Bill.cs",
+              "RelativeToolTip": "DataAccess\\Bill.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAwwCQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T03:25:04.199Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "TableDA.cs",
+              "DocumentMoniker": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Lap Trinh Mang\\RestaurantManagementProject\\DataAccess\\TableDA.cs",
+              "RelativeDocumentMoniker": "DataAccess\\TableDA.cs",
+              "ToolTip": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Lap Trinh Mang\\RestaurantManagementProject\\DataAccess\\TableDA.cs",
+              "RelativeToolTip": "DataAccess\\TableDA.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAswFoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T03:24:31.787Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Table.cs",
+              "DocumentMoniker": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Lap Trinh Mang\\RestaurantManagementProject\\DataAccess\\Table.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Table.cs",
+              "ToolTip": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Lap Trinh Mang\\RestaurantManagementProject\\DataAccess\\Table.cs",
+              "RelativeToolTip": "DataAccess\\Table.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T03:24:18.936Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "RoleDA.cs",
+              "DocumentMoniker": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Lap Trinh Mang\\RestaurantManagementProject\\DataAccess\\RoleDA.cs",
+              "RelativeDocumentMoniker": "DataAccess\\RoleDA.cs",
+              "ToolTip": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Lap Trinh Mang\\RestaurantManagementProject\\DataAccess\\RoleDA.cs",
+              "RelativeToolTip": "DataAccess\\RoleDA.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAswFUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T03:24:06.812Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Role.cs",
+              "DocumentMoniker": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Lap Trinh Mang\\RestaurantManagementProject\\DataAccess\\Role.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Role.cs",
+              "ToolTip": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Lap Trinh Mang\\RestaurantManagementProject\\DataAccess\\Role.cs",
+              "RelativeToolTip": "DataAccess\\Role.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAwwA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T03:23:45.729Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "AccountDA.cs",
+              "DocumentMoniker": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Lap Trinh Mang\\RestaurantManagementProject\\DataAccess\\AccountDA.cs",
+              "RelativeDocumentMoniker": "DataAccess\\AccountDA.cs",
+              "ToolTip": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Lap Trinh Mang\\RestaurantManagementProject\\DataAccess\\AccountDA.cs",
+              "RelativeToolTip": "DataAccess\\AccountDA.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T03:23:29.32Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Account.cs",
+              "DocumentMoniker": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Lap Trinh Mang\\RestaurantManagementProject\\DataAccess\\Account.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Account.cs",
+              "ToolTip": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Lap Trinh Mang\\RestaurantManagementProject\\DataAccess\\Account.cs",
+              "RelativeToolTip": "DataAccess\\Account.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T03:23:09.298Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "frmCategory.Designer.cs",
+              "DocumentMoniker": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Lap Trinh Mang\\RestaurantManagementProject\\RestaurantManagementProject\\frmCategory.Designer.cs",
+              "RelativeDocumentMoniker": "RestaurantManagementProject\\frmCategory.Designer.cs",
+              "ToolTip": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Lap Trinh Mang\\RestaurantManagementProject\\RestaurantManagementProject\\frmCategory.Designer.cs",
+              "RelativeToolTip": "RestaurantManagementProject\\frmCategory.Designer.cs",
+              "ViewState": "AgIAABIBAAAAAAAAAAAwwB8BAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T02:50:59.124Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "frmCategory.cs",
+              "DocumentMoniker": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Lap Trinh Mang\\RestaurantManagementProject\\RestaurantManagementProject\\frmCategory.cs",
+              "RelativeDocumentMoniker": "RestaurantManagementProject\\frmCategory.cs",
+              "ToolTip": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Lap Trinh Mang\\RestaurantManagementProject\\RestaurantManagementProject\\frmCategory.cs",
+              "RelativeToolTip": "RestaurantManagementProject\\frmCategory.cs",
+              "ViewState": "AgIAACwBAAAAAAAAAAAAADoBAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T02:45:52.572Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "frmLogin.Designer.cs",
+              "DocumentMoniker": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Lap Trinh Mang\\RestaurantManagementProject\\RestaurantManagementProject\\frmLogin.Designer.cs",
+              "RelativeDocumentMoniker": "RestaurantManagementProject\\frmLogin.Designer.cs",
+              "ToolTip": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Lap Trinh Mang\\RestaurantManagementProject\\RestaurantManagementProject\\frmLogin.Designer.cs",
+              "RelativeToolTip": "RestaurantManagementProject\\frmLogin.Designer.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAmwDgAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T10:46:07.927Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "frmLogin.cs",
+              "DocumentMoniker": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Lap Trinh Mang\\RestaurantManagementProject\\RestaurantManagementProject\\frmLogin.cs",
+              "RelativeDocumentMoniker": "RestaurantManagementProject\\frmLogin.cs",
+              "ToolTip": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Lap Trinh Mang\\RestaurantManagementProject\\RestaurantManagementProject\\frmLogin.cs",
+              "RelativeToolTip": "RestaurantManagementProject\\frmLogin.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAlwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T10:45:56.751Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "frmMain.Designer.cs",
+              "DocumentMoniker": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Lap Trinh Mang\\RestaurantManagementProject\\RestaurantManagementProject\\frmMain.Designer.cs",
+              "RelativeDocumentMoniker": "RestaurantManagementProject\\frmMain.Designer.cs",
+              "ToolTip": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Lap Trinh Mang\\RestaurantManagementProject\\RestaurantManagementProject\\frmMain.Designer.cs",
+              "RelativeToolTip": "RestaurantManagementProject\\frmMain.Designer.cs",
+              "ViewState": "AgIAAHcBAAAAAAAAAIAwwIYBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T07:09:33.185Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "frmFood.Designer.cs",
+              "DocumentMoniker": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Lap Trinh Mang\\RestaurantManagementProject\\RestaurantManagementProject\\frmFood.Designer.cs",
+              "RelativeDocumentMoniker": "RestaurantManagementProject\\frmFood.Designer.cs",
+              "ToolTip": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Lap Trinh Mang\\RestaurantManagementProject\\RestaurantManagementProject\\frmFood.Designer.cs",
+              "RelativeToolTip": "RestaurantManagementProject\\frmFood.Designer.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAYwAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T06:28:04.937Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "frmFood.cs",
+              "DocumentMoniker": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Lap Trinh Mang\\RestaurantManagementProject\\RestaurantManagementProject\\frmFood.cs",
+              "RelativeDocumentMoniker": "RestaurantManagementProject\\frmFood.cs",
+              "ToolTip": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Lap Trinh Mang\\RestaurantManagementProject\\RestaurantManagementProject\\frmFood.cs",
+              "RelativeToolTip": "RestaurantManagementProject\\frmFood.cs",
+              "ViewState": "AgIAALwAAAAAAAAAAAAQwMgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T06:27:17.576Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "App.config",
+              "DocumentMoniker": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Lap Trinh Mang\\RestaurantManagementProject\\RestaurantManagementProject\\App.config",
+              "RelativeDocumentMoniker": "RestaurantManagementProject\\App.config",
+              "ToolTip": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Lap Trinh Mang\\RestaurantManagementProject\\RestaurantManagementProject\\App.config",
+              "RelativeToolTip": "RestaurantManagementProject\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-10-23T21:17:03.066Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "FoodBL.cs",
+              "DocumentMoniker": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Lap Trinh Mang\\RestaurantManagementProject\\BusinessLogic\\FoodBL.cs",
+              "RelativeDocumentMoniker": "BusinessLogic\\FoodBL.cs",
+              "ToolTip": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Lap Trinh Mang\\RestaurantManagementProject\\BusinessLogic\\FoodBL.cs",
+              "RelativeToolTip": "BusinessLogic\\FoodBL.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAkwD8AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T21:15:15.518Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "CategoryBL.cs",
+              "DocumentMoniker": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Lap Trinh Mang\\RestaurantManagementProject\\BusinessLogic\\CategoryBL.cs",
+              "RelativeDocumentMoniker": "BusinessLogic\\CategoryBL.cs",
+              "ToolTip": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Lap Trinh Mang\\RestaurantManagementProject\\BusinessLogic\\CategoryBL.cs",
+              "RelativeToolTip": "BusinessLogic\\CategoryBL.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAkwEMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T21:14:10.696Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Utilities.cs",
+              "DocumentMoniker": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Lap Trinh Mang\\RestaurantManagementProject\\DataAccess\\Utilities.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Utilities.cs",
+              "ToolTip": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Lap Trinh Mang\\RestaurantManagementProject\\DataAccess\\Utilities.cs",
+              "RelativeToolTip": "DataAccess\\Utilities.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAkwCgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T20:55:20.313Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

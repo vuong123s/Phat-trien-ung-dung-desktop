@@ -1,0 +1,15 @@
+D:\Vương\Nam 3 Ki 1\Phát triển ứng dụng desktop\Lab_Basic_Command\Lab_Basic_Command\Lab_Basic_Command\bin\Debug\Lab_Basic_Command.exe.config
+D:\Vương\Nam 3 Ki 1\Phát triển ứng dụng desktop\Lab_Basic_Command\Lab_Basic_Command\Lab_Basic_Command\bin\Debug\Lab_Basic_Command.exe
+D:\Vương\Nam 3 Ki 1\Phát triển ứng dụng desktop\Lab_Basic_Command\Lab_Basic_Command\Lab_Basic_Command\bin\Debug\Lab_Basic_Command.pdb
+D:\Vương\Nam 3 Ki 1\Phát triển ứng dụng desktop\Lab_Basic_Command\Lab_Basic_Command\Lab_Basic_Command\obj\Debug\Lab_Basic_Command.csproj.AssemblyReference.cache
+D:\Vương\Nam 3 Ki 1\Phát triển ứng dụng desktop\Lab_Basic_Command\Lab_Basic_Command\Lab_Basic_Command\obj\Debug\Lab_Basic_Command.FoodForm.resources
+D:\Vương\Nam 3 Ki 1\Phát triển ứng dụng desktop\Lab_Basic_Command\Lab_Basic_Command\Lab_Basic_Command\obj\Debug\Lab_Basic_Command.Form1.resources
+D:\Vương\Nam 3 Ki 1\Phát triển ứng dụng desktop\Lab_Basic_Command\Lab_Basic_Command\Lab_Basic_Command\obj\Debug\Lab_Basic_Command.Properties.Resources.resources
+D:\Vương\Nam 3 Ki 1\Phát triển ứng dụng desktop\Lab_Basic_Command\Lab_Basic_Command\Lab_Basic_Command\obj\Debug\Lab_Basic_Command.csproj.GenerateResource.cache
+D:\Vương\Nam 3 Ki 1\Phát triển ứng dụng desktop\Lab_Basic_Command\Lab_Basic_Command\Lab_Basic_Command\obj\Debug\Lab_Basic_Command.csproj.CoreCompileInputs.cache
+D:\Vương\Nam 3 Ki 1\Phát triển ứng dụng desktop\Lab_Basic_Command\Lab_Basic_Command\Lab_Basic_Command\obj\Debug\Lab_Basic_Command.exe
+D:\Vương\Nam 3 Ki 1\Phát triển ứng dụng desktop\Lab_Basic_Command\Lab_Basic_Command\Lab_Basic_Command\obj\Debug\Lab_Basic_Command.pdb
+D:\Vương\Nam 3 Ki 1\Phát triển ứng dụng desktop\Lab_Basic_Command\Lab_Basic_Command\Lab_Basic_Command\obj\Debug\Lab_Basic_Command.exe.config
+D:\Vương\Nam 3 Ki 1\Phát triển ứng dụng desktop\Lab_Basic_Command\Lab_Basic_Command\Lab_Basic_Command\obj\Debug\Lab_Basic_Command.MainForm.resources
+D:\Vương\Nam 3 Ki 1\Phát triển ứng dụng desktop\Lab_Basic_Command\Lab_Basic_Command\Lab_Basic_Command\obj\Debug\Lab_Basic_Command.BillDetailsForm.resources
+D:\Vương\Nam 3 Ki 1\Phát triển ứng dụng desktop\Lab_Basic_Command\Lab_Basic_Command\Lab_Basic_Command\obj\Debug\Lab_Basic_Command.BillsForm.resources

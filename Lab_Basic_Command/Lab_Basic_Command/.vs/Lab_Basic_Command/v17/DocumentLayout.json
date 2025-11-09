@@ -1,0 +1,268 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\Lab_Basic_Command\\Lab_Basic_Command\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5883E391-24C9-402A-B767-BF87EB44E007}|Lab_Basic_Command\\Lab_Basic_Command.csproj|D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\Lab_Basic_Command\\Lab_Basic_Command\\lab_basic_command\\billsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5883E391-24C9-402A-B767-BF87EB44E007}|Lab_Basic_Command\\Lab_Basic_Command.csproj|solutionrelative:lab_basic_command\\billsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5883E391-24C9-402A-B767-BF87EB44E007}|Lab_Basic_Command\\Lab_Basic_Command.csproj|D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\Lab_Basic_Command\\Lab_Basic_Command\\lab_basic_command\\billdetailsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5883E391-24C9-402A-B767-BF87EB44E007}|Lab_Basic_Command\\Lab_Basic_Command.csproj|solutionrelative:lab_basic_command\\billdetailsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5883E391-24C9-402A-B767-BF87EB44E007}|Lab_Basic_Command\\Lab_Basic_Command.csproj|d:\\v\u01B0\u01A1ng\\nam 3 ki 1\\ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\lab_basic_command\\lab_basic_command\\lab_basic_command\\foodform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5883E391-24C9-402A-B767-BF87EB44E007}|Lab_Basic_Command\\Lab_Basic_Command.csproj|solutionrelative:lab_basic_command\\foodform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5883E391-24C9-402A-B767-BF87EB44E007}|Lab_Basic_Command\\Lab_Basic_Command.csproj|D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\Lab_Basic_Command\\Lab_Basic_Command\\lab_basic_command\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5883E391-24C9-402A-B767-BF87EB44E007}|Lab_Basic_Command\\Lab_Basic_Command.csproj|solutionrelative:lab_basic_command\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5883E391-24C9-402A-B767-BF87EB44E007}|Lab_Basic_Command\\Lab_Basic_Command.csproj|D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\Lab_Basic_Command\\Lab_Basic_Command\\lab_basic_command\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5883E391-24C9-402A-B767-BF87EB44E007}|Lab_Basic_Command\\Lab_Basic_Command.csproj|solutionrelative:lab_basic_command\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5883E391-24C9-402A-B767-BF87EB44E007}|Lab_Basic_Command\\Lab_Basic_Command.csproj|D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\Lab_Basic_Command\\Lab_Basic_Command\\lab_basic_command\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5883E391-24C9-402A-B767-BF87EB44E007}|Lab_Basic_Command\\Lab_Basic_Command.csproj|solutionrelative:lab_basic_command\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5883E391-24C9-402A-B767-BF87EB44E007}|Lab_Basic_Command\\Lab_Basic_Command.csproj|D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\Lab_Basic_Command\\Lab_Basic_Command\\lab_basic_command\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5883E391-24C9-402A-B767-BF87EB44E007}|Lab_Basic_Command\\Lab_Basic_Command.csproj|solutionrelative:lab_basic_command\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5883E391-24C9-402A-B767-BF87EB44E007}|Lab_Basic_Command\\Lab_Basic_Command.csproj|D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\Lab_Basic_Command\\Lab_Basic_Command\\lab_basic_command\\foodform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5883E391-24C9-402A-B767-BF87EB44E007}|Lab_Basic_Command\\Lab_Basic_Command.csproj|solutionrelative:lab_basic_command\\foodform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5883E391-24C9-402A-B767-BF87EB44E007}|Lab_Basic_Command\\Lab_Basic_Command.csproj|D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\Lab_Basic_Command\\Lab_Basic_Command\\lab_basic_command\\billsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5883E391-24C9-402A-B767-BF87EB44E007}|Lab_Basic_Command\\Lab_Basic_Command.csproj|solutionrelative:lab_basic_command\\billsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5883E391-24C9-402A-B767-BF87EB44E007}|Lab_Basic_Command\\Lab_Basic_Command.csproj|D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\Lab_Basic_Command\\Lab_Basic_Command\\lab_basic_command\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5883E391-24C9-402A-B767-BF87EB44E007}|Lab_Basic_Command\\Lab_Basic_Command.csproj|solutionrelative:lab_basic_command\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5883E391-24C9-402A-B767-BF87EB44E007}|Lab_Basic_Command\\Lab_Basic_Command.csproj|D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\Lab_Basic_Command\\Lab_Basic_Command\\lab_basic_command\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5883E391-24C9-402A-B767-BF87EB44E007}|Lab_Basic_Command\\Lab_Basic_Command.csproj|solutionrelative:lab_basic_command\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5883E391-24C9-402A-B767-BF87EB44E007}|Lab_Basic_Command\\Lab_Basic_Command.csproj|D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\Lab_Basic_Command\\Lab_Basic_Command\\lab_basic_command\\foodform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5883E391-24C9-402A-B767-BF87EB44E007}|Lab_Basic_Command\\Lab_Basic_Command.csproj|solutionrelative:lab_basic_command\\foodform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5883E391-24C9-402A-B767-BF87EB44E007}|Lab_Basic_Command\\Lab_Basic_Command.csproj|D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\Lab_Basic_Command\\Lab_Basic_Command\\lab_basic_command\\billdetailsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5883E391-24C9-402A-B767-BF87EB44E007}|Lab_Basic_Command\\Lab_Basic_Command.csproj|solutionrelative:lab_basic_command\\billdetailsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5883E391-24C9-402A-B767-BF87EB44E007}|Lab_Basic_Command\\Lab_Basic_Command.csproj|D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\Lab_Basic_Command\\Lab_Basic_Command\\lab_basic_command\\billdetailsform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5883E391-24C9-402A-B767-BF87EB44E007}|Lab_Basic_Command\\Lab_Basic_Command.csproj|solutionrelative:lab_basic_command\\billdetailsform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5883E391-24C9-402A-B767-BF87EB44E007}|Lab_Basic_Command\\Lab_Basic_Command.csproj|D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\Lab_Basic_Command\\Lab_Basic_Command\\lab_basic_command\\billsform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5883E391-24C9-402A-B767-BF87EB44E007}|Lab_Basic_Command\\Lab_Basic_Command.csproj|solutionrelative:lab_basic_command\\billsform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BillDetailsForm.cs [Design]",
+              "DocumentMoniker": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\Lab_Basic_Command\\Lab_Basic_Command\\Lab_Basic_Command\\BillDetailsForm.cs",
+              "RelativeDocumentMoniker": "Lab_Basic_Command\\BillDetailsForm.cs",
+              "ToolTip": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\Lab_Basic_Command\\Lab_Basic_Command\\Lab_Basic_Command\\BillDetailsForm.cs [Design]*",
+              "RelativeToolTip": "Lab_Basic_Command\\BillDetailsForm.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T07:16:16.975Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BillsForm.cs",
+              "DocumentMoniker": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\Lab_Basic_Command\\Lab_Basic_Command\\Lab_Basic_Command\\BillsForm.cs",
+              "RelativeDocumentMoniker": "Lab_Basic_Command\\BillsForm.cs",
+              "ToolTip": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\Lab_Basic_Command\\Lab_Basic_Command\\Lab_Basic_Command\\BillsForm.cs",
+              "RelativeToolTip": "Lab_Basic_Command\\BillsForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T07:12:39.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FoodForm.cs [Design]",
+              "DocumentMoniker": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\Lab_Basic_Command\\Lab_Basic_Command\\Lab_Basic_Command\\FoodForm.cs",
+              "RelativeDocumentMoniker": "Lab_Basic_Command\\FoodForm.cs",
+              "ToolTip": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\Lab_Basic_Command\\Lab_Basic_Command\\Lab_Basic_Command\\FoodForm.cs [Design]",
+              "RelativeToolTip": "Lab_Basic_Command\\FoodForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T23:30:19.111Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BillDetailsForm.cs",
+              "DocumentMoniker": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\Lab_Basic_Command\\Lab_Basic_Command\\Lab_Basic_Command\\BillDetailsForm.cs",
+              "RelativeDocumentMoniker": "Lab_Basic_Command\\BillDetailsForm.cs",
+              "ToolTip": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\Lab_Basic_Command\\Lab_Basic_Command\\Lab_Basic_Command\\BillDetailsForm.cs*",
+              "RelativeToolTip": "Lab_Basic_Command\\BillDetailsForm.cs*",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAmwIYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T07:19:30.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "BillDetailsForm.Designer.cs",
+              "DocumentMoniker": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\Lab_Basic_Command\\Lab_Basic_Command\\Lab_Basic_Command\\BillDetailsForm.Designer.cs",
+              "RelativeDocumentMoniker": "Lab_Basic_Command\\BillDetailsForm.Designer.cs",
+              "ToolTip": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\Lab_Basic_Command\\Lab_Basic_Command\\Lab_Basic_Command\\BillDetailsForm.Designer.cs",
+              "RelativeToolTip": "Lab_Basic_Command\\BillDetailsForm.Designer.cs",
+              "ViewState": "AgIAAGQAAAAAAAAAAAAmwGwAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T07:19:41.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BillsForm.cs [Design]",
+              "DocumentMoniker": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\Lab_Basic_Command\\Lab_Basic_Command\\Lab_Basic_Command\\BillsForm.cs",
+              "RelativeDocumentMoniker": "Lab_Basic_Command\\BillsForm.cs",
+              "ToolTip": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\Lab_Basic_Command\\Lab_Basic_Command\\Lab_Basic_Command\\BillsForm.cs [Design]",
+              "RelativeToolTip": "Lab_Basic_Command\\BillsForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T07:12:16.776Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "BillsForm.Designer.cs",
+              "DocumentMoniker": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\Lab_Basic_Command\\Lab_Basic_Command\\Lab_Basic_Command\\BillsForm.Designer.cs",
+              "RelativeDocumentMoniker": "Lab_Basic_Command\\BillsForm.Designer.cs",
+              "ToolTip": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\Lab_Basic_Command\\Lab_Basic_Command\\Lab_Basic_Command\\BillsForm.Designer.cs",
+              "RelativeToolTip": "Lab_Basic_Command\\BillsForm.Designer.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAswEAAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T07:13:00.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MainForm.Designer.cs",
+              "DocumentMoniker": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\Lab_Basic_Command\\Lab_Basic_Command\\Lab_Basic_Command\\MainForm.Designer.cs",
+              "RelativeDocumentMoniker": "Lab_Basic_Command\\MainForm.Designer.cs",
+              "ToolTip": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\Lab_Basic_Command\\Lab_Basic_Command\\Lab_Basic_Command\\MainForm.Designer.cs",
+              "RelativeToolTip": "Lab_Basic_Command\\MainForm.Designer.cs",
+              "ViewState": "AgIAAG8AAAAAAAAAAAAAAG8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T23:19:00.421Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\Lab_Basic_Command\\Lab_Basic_Command\\Lab_Basic_Command\\MainForm.cs",
+              "RelativeDocumentMoniker": "Lab_Basic_Command\\MainForm.cs",
+              "ToolTip": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\Lab_Basic_Command\\Lab_Basic_Command\\Lab_Basic_Command\\MainForm.cs",
+              "RelativeToolTip": "Lab_Basic_Command\\MainForm.cs",
+              "ViewState": "AgIAAK4AAAAAAAAAAAAiwLUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T23:18:57.831Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\Lab_Basic_Command\\Lab_Basic_Command\\Lab_Basic_Command\\MainForm.cs",
+              "RelativeDocumentMoniker": "Lab_Basic_Command\\MainForm.cs",
+              "ToolTip": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\Lab_Basic_Command\\Lab_Basic_Command\\Lab_Basic_Command\\MainForm.cs [Design]",
+              "RelativeToolTip": "Lab_Basic_Command\\MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T23:18:56.061Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\Lab_Basic_Command\\Lab_Basic_Command\\Lab_Basic_Command\\Program.cs",
+              "RelativeDocumentMoniker": "Lab_Basic_Command\\Program.cs",
+              "ToolTip": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\Lab_Basic_Command\\Lab_Basic_Command\\Lab_Basic_Command\\Program.cs",
+              "RelativeToolTip": "Lab_Basic_Command\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T14:06:59.131Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FoodForm.Designer.cs",
+              "DocumentMoniker": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\Lab_Basic_Command\\Lab_Basic_Command\\Lab_Basic_Command\\FoodForm.Designer.cs",
+              "RelativeDocumentMoniker": "Lab_Basic_Command\\FoodForm.Designer.cs",
+              "ToolTip": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\Lab_Basic_Command\\Lab_Basic_Command\\Lab_Basic_Command\\FoodForm.Designer.cs",
+              "RelativeToolTip": "Lab_Basic_Command\\FoodForm.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T23:33:47.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\Lab_Basic_Command\\Lab_Basic_Command\\Lab_Basic_Command\\Form1.cs",
+              "RelativeDocumentMoniker": "Lab_Basic_Command\\Form1.cs",
+              "ToolTip": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\Lab_Basic_Command\\Lab_Basic_Command\\Lab_Basic_Command\\Form1.cs",
+              "RelativeToolTip": "Lab_Basic_Command\\Form1.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAWwBYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T23:33:01.084Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FoodForm.cs",
+              "DocumentMoniker": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\Lab_Basic_Command\\Lab_Basic_Command\\Lab_Basic_Command\\FoodForm.cs",
+              "RelativeDocumentMoniker": "Lab_Basic_Command\\FoodForm.cs",
+              "ToolTip": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\Lab_Basic_Command\\Lab_Basic_Command\\Lab_Basic_Command\\FoodForm.cs",
+              "RelativeToolTip": "Lab_Basic_Command\\FoodForm.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAWwFsAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T23:31:55.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\Lab_Basic_Command\\Lab_Basic_Command\\Lab_Basic_Command\\Form1.cs",
+              "RelativeDocumentMoniker": "Lab_Basic_Command\\Form1.cs",
+              "ToolTip": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\Lab_Basic_Command\\Lab_Basic_Command\\Lab_Basic_Command\\Form1.cs [Design]",
+              "RelativeToolTip": "Lab_Basic_Command\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T23:30:20.912Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

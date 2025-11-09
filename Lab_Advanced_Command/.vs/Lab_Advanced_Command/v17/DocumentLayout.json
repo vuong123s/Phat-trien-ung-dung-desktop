@@ -1,0 +1,465 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\Lab_Advanced_Command-20251022T123413Z-1-001\\Lab_Advanced_Command\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8F3EA49D-9FD8-4D04-853F-1EF326AE86FB}|Lab_Advanced_Command.csproj|d:\\v\u01B0\u01A1ng\\nam 3 ki 1\\ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\lab_advanced_command-20251022t123413z-1-001\\lab_advanced_command\\ordersform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F3EA49D-9FD8-4D04-853F-1EF326AE86FB}|Lab_Advanced_Command.csproj|solutionrelative:ordersform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F3EA49D-9FD8-4D04-853F-1EF326AE86FB}|Lab_Advanced_Command.csproj|D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\Lab_Advanced_Command-20251022T123413Z-1-001\\Lab_Advanced_Command\\ordersform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8F3EA49D-9FD8-4D04-853F-1EF326AE86FB}|Lab_Advanced_Command.csproj|solutionrelative:ordersform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F3EA49D-9FD8-4D04-853F-1EF326AE86FB}|Lab_Advanced_Command.csproj|D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\Lab_Advanced_Command-20251022T123413Z-1-001\\Lab_Advanced_Command\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8F3EA49D-9FD8-4D04-853F-1EF326AE86FB}|Lab_Advanced_Command.csproj|solutionrelative:mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F3EA49D-9FD8-4D04-853F-1EF326AE86FB}|Lab_Advanced_Command.csproj|D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\Lab_Advanced_Command-20251022T123413Z-1-001\\Lab_Advanced_Command\\foodinfoform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8F3EA49D-9FD8-4D04-853F-1EF326AE86FB}|Lab_Advanced_Command.csproj|solutionrelative:foodinfoform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F3EA49D-9FD8-4D04-853F-1EF326AE86FB}|Lab_Advanced_Command.csproj|D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\Lab_Advanced_Command-20251022T123413Z-1-001\\Lab_Advanced_Command\\categoryform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8F3EA49D-9FD8-4D04-853F-1EF326AE86FB}|Lab_Advanced_Command.csproj|solutionrelative:categoryform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F3EA49D-9FD8-4D04-853F-1EF326AE86FB}|Lab_Advanced_Command.csproj|D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\Lab_Advanced_Command-20251022T123413Z-1-001\\Lab_Advanced_Command\\orderdetailsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8F3EA49D-9FD8-4D04-853F-1EF326AE86FB}|Lab_Advanced_Command.csproj|solutionrelative:orderdetailsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F3EA49D-9FD8-4D04-853F-1EF326AE86FB}|Lab_Advanced_Command.csproj|D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\Lab_Advanced_Command-20251022T123413Z-1-001\\Lab_Advanced_Command\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8F3EA49D-9FD8-4D04-853F-1EF326AE86FB}|Lab_Advanced_Command.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F3EA49D-9FD8-4D04-853F-1EF326AE86FB}|Lab_Advanced_Command.csproj|D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\Lab_Advanced_Command-20251022T123413Z-1-001\\Lab_Advanced_Command\\roleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8F3EA49D-9FD8-4D04-853F-1EF326AE86FB}|Lab_Advanced_Command.csproj|solutionrelative:roleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F3EA49D-9FD8-4D04-853F-1EF326AE86FB}|Lab_Advanced_Command.csproj|D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\Lab_Advanced_Command-20251022T123413Z-1-001\\Lab_Advanced_Command\\accountform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8F3EA49D-9FD8-4D04-853F-1EF326AE86FB}|Lab_Advanced_Command.csproj|solutionrelative:accountform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F3EA49D-9FD8-4D04-853F-1EF326AE86FB}|Lab_Advanced_Command.csproj|D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\Lab_Advanced_Command-20251022T123413Z-1-001\\Lab_Advanced_Command\\activityform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8F3EA49D-9FD8-4D04-853F-1EF326AE86FB}|Lab_Advanced_Command.csproj|solutionrelative:activityform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F3EA49D-9FD8-4D04-853F-1EF326AE86FB}|Lab_Advanced_Command.csproj|D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\Lab_Advanced_Command-20251022T123413Z-1-001\\Lab_Advanced_Command\\accountform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F3EA49D-9FD8-4D04-853F-1EF326AE86FB}|Lab_Advanced_Command.csproj|solutionrelative:accountform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F3EA49D-9FD8-4D04-853F-1EF326AE86FB}|Lab_Advanced_Command.csproj|D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\Lab_Advanced_Command-20251022T123413Z-1-001\\Lab_Advanced_Command\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F3EA49D-9FD8-4D04-853F-1EF326AE86FB}|Lab_Advanced_Command.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F3EA49D-9FD8-4D04-853F-1EF326AE86FB}|Lab_Advanced_Command.csproj|D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\Lab_Advanced_Command-20251022T123413Z-1-001\\Lab_Advanced_Command\\roleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F3EA49D-9FD8-4D04-853F-1EF326AE86FB}|Lab_Advanced_Command.csproj|solutionrelative:roleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F3EA49D-9FD8-4D04-853F-1EF326AE86FB}|Lab_Advanced_Command.csproj|D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\Lab_Advanced_Command-20251022T123413Z-1-001\\Lab_Advanced_Command\\roleform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F3EA49D-9FD8-4D04-853F-1EF326AE86FB}|Lab_Advanced_Command.csproj|solutionrelative:roleform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F3EA49D-9FD8-4D04-853F-1EF326AE86FB}|Lab_Advanced_Command.csproj|D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\Lab_Advanced_Command-20251022T123413Z-1-001\\Lab_Advanced_Command\\activityform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F3EA49D-9FD8-4D04-853F-1EF326AE86FB}|Lab_Advanced_Command.csproj|solutionrelative:activityform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F3EA49D-9FD8-4D04-853F-1EF326AE86FB}|Lab_Advanced_Command.csproj|D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\Lab_Advanced_Command-20251022T123413Z-1-001\\Lab_Advanced_Command\\activityform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F3EA49D-9FD8-4D04-853F-1EF326AE86FB}|Lab_Advanced_Command.csproj|solutionrelative:activityform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F3EA49D-9FD8-4D04-853F-1EF326AE86FB}|Lab_Advanced_Command.csproj|D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\Lab_Advanced_Command-20251022T123413Z-1-001\\Lab_Advanced_Command\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F3EA49D-9FD8-4D04-853F-1EF326AE86FB}|Lab_Advanced_Command.csproj|solutionrelative:mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F3EA49D-9FD8-4D04-853F-1EF326AE86FB}|Lab_Advanced_Command.csproj|D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\Lab_Advanced_Command-20251022T123413Z-1-001\\Lab_Advanced_Command\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F3EA49D-9FD8-4D04-853F-1EF326AE86FB}|Lab_Advanced_Command.csproj|solutionrelative:mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F3EA49D-9FD8-4D04-853F-1EF326AE86FB}|Lab_Advanced_Command.csproj|D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\Lab_Advanced_Command-20251022T123413Z-1-001\\Lab_Advanced_Command\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{8F3EA49D-9FD8-4D04-853F-1EF326AE86FB}|Lab_Advanced_Command.csproj|solutionrelative:app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F3EA49D-9FD8-4D04-853F-1EF326AE86FB}|Lab_Advanced_Command.csproj|D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\Lab_Advanced_Command-20251022T123413Z-1-001\\Lab_Advanced_Command\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F3EA49D-9FD8-4D04-853F-1EF326AE86FB}|Lab_Advanced_Command.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F3EA49D-9FD8-4D04-853F-1EF326AE86FB}|Lab_Advanced_Command.csproj|D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\Lab_Advanced_Command-20251022T123413Z-1-001\\Lab_Advanced_Command\\categoryform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F3EA49D-9FD8-4D04-853F-1EF326AE86FB}|Lab_Advanced_Command.csproj|solutionrelative:categoryform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F3EA49D-9FD8-4D04-853F-1EF326AE86FB}|Lab_Advanced_Command.csproj|D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\Lab_Advanced_Command-20251022T123413Z-1-001\\Lab_Advanced_Command\\foodinfoform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F3EA49D-9FD8-4D04-853F-1EF326AE86FB}|Lab_Advanced_Command.csproj|solutionrelative:foodinfoform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F3EA49D-9FD8-4D04-853F-1EF326AE86FB}|Lab_Advanced_Command.csproj|D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\Lab_Advanced_Command-20251022T123413Z-1-001\\Lab_Advanced_Command\\orderdetailsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F3EA49D-9FD8-4D04-853F-1EF326AE86FB}|Lab_Advanced_Command.csproj|solutionrelative:orderdetailsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F3EA49D-9FD8-4D04-853F-1EF326AE86FB}|Lab_Advanced_Command.csproj|D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\Lab_Advanced_Command-20251022T123413Z-1-001\\Lab_Advanced_Command\\accountform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F3EA49D-9FD8-4D04-853F-1EF326AE86FB}|Lab_Advanced_Command.csproj|solutionrelative:accountform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F3EA49D-9FD8-4D04-853F-1EF326AE86FB}|Lab_Advanced_Command.csproj|D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\Lab_Advanced_Command-20251022T123413Z-1-001\\Lab_Advanced_Command\\ordersform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F3EA49D-9FD8-4D04-853F-1EF326AE86FB}|Lab_Advanced_Command.csproj|solutionrelative:ordersform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F3EA49D-9FD8-4D04-853F-1EF326AE86FB}|Lab_Advanced_Command.csproj|D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\Lab_Advanced_Command-20251022T123413Z-1-001\\Lab_Advanced_Command\\orderdetailsform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F3EA49D-9FD8-4D04-853F-1EF326AE86FB}|Lab_Advanced_Command.csproj|solutionrelative:orderdetailsform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F3EA49D-9FD8-4D04-853F-1EF326AE86FB}|Lab_Advanced_Command.csproj|D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\Lab_Advanced_Command-20251022T123413Z-1-001\\Lab_Advanced_Command\\categoryform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F3EA49D-9FD8-4D04-853F-1EF326AE86FB}|Lab_Advanced_Command.csproj|solutionrelative:categoryform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F3EA49D-9FD8-4D04-853F-1EF326AE86FB}|Lab_Advanced_Command.csproj|D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\Lab_Advanced_Command-20251022T123413Z-1-001\\Lab_Advanced_Command\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F3EA49D-9FD8-4D04-853F-1EF326AE86FB}|Lab_Advanced_Command.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\Lab_Advanced_Command-20251022T123413Z-1-001\\Lab_Advanced_Command\\MainForm.cs",
+              "RelativeDocumentMoniker": "MainForm.cs",
+              "ToolTip": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\Lab_Advanced_Command-20251022T123413Z-1-001\\Lab_Advanced_Command\\MainForm.cs",
+              "RelativeToolTip": "MainForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T07:40:17.708Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\Lab_Advanced_Command-20251022T123413Z-1-001\\Lab_Advanced_Command\\MainForm.cs",
+              "RelativeDocumentMoniker": "MainForm.cs",
+              "ToolTip": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\Lab_Advanced_Command-20251022T123413Z-1-001\\Lab_Advanced_Command\\MainForm.cs [Design]",
+              "RelativeToolTip": "MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T07:40:15.898Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ActivityForm.Designer.cs",
+              "DocumentMoniker": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\Lab_Advanced_Command-20251022T123413Z-1-001\\Lab_Advanced_Command\\ActivityForm.Designer.cs",
+              "RelativeDocumentMoniker": "ActivityForm.Designer.cs",
+              "ToolTip": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\Lab_Advanced_Command-20251022T123413Z-1-001\\Lab_Advanced_Command\\ActivityForm.Designer.cs",
+              "RelativeToolTip": "ActivityForm.Designer.cs",
+              "ViewState": "AgIAAOAAAAAAAAAAAAAqwPkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T00:25:24.026Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ActivityForm.cs",
+              "DocumentMoniker": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\Lab_Advanced_Command-20251022T123413Z-1-001\\Lab_Advanced_Command\\ActivityForm.cs",
+              "RelativeDocumentMoniker": "ActivityForm.cs",
+              "ToolTip": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\Lab_Advanced_Command-20251022T123413Z-1-001\\Lab_Advanced_Command\\ActivityForm.cs",
+              "RelativeToolTip": "ActivityForm.cs",
+              "ViewState": "AgIAAJQAAAAAAAAAAAAowLMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T00:25:16.087Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrdersForm.cs [Design]",
+              "DocumentMoniker": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\Lab_Advanced_Command-20251022T123413Z-1-001\\Lab_Advanced_Command\\OrdersForm.cs",
+              "RelativeDocumentMoniker": "OrdersForm.cs",
+              "ToolTip": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\Lab_Advanced_Command-20251022T123413Z-1-001\\Lab_Advanced_Command\\OrdersForm.cs [Design]",
+              "RelativeToolTip": "OrdersForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T23:58:19.156Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrdersForm.cs",
+              "DocumentMoniker": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\Lab_Advanced_Command-20251022T123413Z-1-001\\Lab_Advanced_Command\\OrdersForm.cs",
+              "RelativeDocumentMoniker": "OrdersForm.cs",
+              "ToolTip": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\Lab_Advanced_Command-20251022T123413Z-1-001\\Lab_Advanced_Command\\OrdersForm.cs",
+              "RelativeToolTip": "OrdersForm.cs",
+              "ViewState": "AgIAAHIAAAAAAAAAAAAgwCAAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T23:58:38.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "MainForm.Designer.cs",
+              "DocumentMoniker": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\Lab_Advanced_Command-20251022T123413Z-1-001\\Lab_Advanced_Command\\MainForm.Designer.cs",
+              "RelativeDocumentMoniker": "MainForm.Designer.cs",
+              "ToolTip": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\Lab_Advanced_Command-20251022T123413Z-1-001\\Lab_Advanced_Command\\MainForm.Designer.cs",
+              "RelativeToolTip": "MainForm.Designer.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAUwPwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T07:40:46.588Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "App.config",
+              "DocumentMoniker": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\Lab_Advanced_Command-20251022T123413Z-1-001\\Lab_Advanced_Command\\App.config",
+              "RelativeDocumentMoniker": "App.config",
+              "ToolTip": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\Lab_Advanced_Command-20251022T123413Z-1-001\\Lab_Advanced_Command\\App.config",
+              "RelativeToolTip": "App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-11-01T08:17:42.585Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ActivityForm.cs [Design]",
+              "DocumentMoniker": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\Lab_Advanced_Command-20251022T123413Z-1-001\\Lab_Advanced_Command\\ActivityForm.cs",
+              "RelativeDocumentMoniker": "ActivityForm.cs",
+              "ToolTip": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\Lab_Advanced_Command-20251022T123413Z-1-001\\Lab_Advanced_Command\\ActivityForm.cs [Design]",
+              "RelativeToolTip": "ActivityForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T00:25:14.271Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "RoleForm.Designer.cs",
+              "DocumentMoniker": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\Lab_Advanced_Command-20251022T123413Z-1-001\\Lab_Advanced_Command\\RoleForm.Designer.cs",
+              "RelativeDocumentMoniker": "RoleForm.Designer.cs",
+              "ToolTip": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\Lab_Advanced_Command-20251022T123413Z-1-001\\Lab_Advanced_Command\\RoleForm.Designer.cs",
+              "RelativeToolTip": "RoleForm.Designer.cs",
+              "ViewState": "AgIAAL8AAAAAAAAAAAAgwNkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T00:23:54.178Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "RoleForm.cs",
+              "DocumentMoniker": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\Lab_Advanced_Command-20251022T123413Z-1-001\\Lab_Advanced_Command\\RoleForm.cs",
+              "RelativeDocumentMoniker": "RoleForm.cs",
+              "ToolTip": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\Lab_Advanced_Command-20251022T123413Z-1-001\\Lab_Advanced_Command\\RoleForm.cs",
+              "RelativeToolTip": "RoleForm.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAowGoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T00:23:49.946Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RoleForm.cs [Design]",
+              "DocumentMoniker": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\Lab_Advanced_Command-20251022T123413Z-1-001\\Lab_Advanced_Command\\RoleForm.cs",
+              "RelativeDocumentMoniker": "RoleForm.cs",
+              "ToolTip": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\Lab_Advanced_Command-20251022T123413Z-1-001\\Lab_Advanced_Command\\RoleForm.cs [Design]",
+              "RelativeToolTip": "RoleForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T00:23:47.842Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "AccountForm.Designer.cs",
+              "DocumentMoniker": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\Lab_Advanced_Command-20251022T123413Z-1-001\\Lab_Advanced_Command\\AccountForm.Designer.cs",
+              "RelativeDocumentMoniker": "AccountForm.Designer.cs",
+              "ToolTip": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\Lab_Advanced_Command-20251022T123413Z-1-001\\Lab_Advanced_Command\\AccountForm.Designer.cs",
+              "RelativeToolTip": "AccountForm.Designer.cs",
+              "ViewState": "AgIAADIBAAAAAAAAAAAgwEwBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T00:20:29.043Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AccountForm.cs",
+              "DocumentMoniker": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\Lab_Advanced_Command-20251022T123413Z-1-001\\Lab_Advanced_Command\\AccountForm.cs",
+              "RelativeDocumentMoniker": "AccountForm.cs",
+              "ToolTip": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\Lab_Advanced_Command-20251022T123413Z-1-001\\Lab_Advanced_Command\\AccountForm.cs",
+              "RelativeToolTip": "AccountForm.cs",
+              "ViewState": "AgIAAAYBAAAAAAAAAAAcwBABAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T00:20:21.219Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AccountForm.cs [Design]",
+              "DocumentMoniker": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\Lab_Advanced_Command-20251022T123413Z-1-001\\Lab_Advanced_Command\\AccountForm.cs",
+              "RelativeDocumentMoniker": "AccountForm.cs",
+              "ToolTip": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\Lab_Advanced_Command-20251022T123413Z-1-001\\Lab_Advanced_Command\\AccountForm.cs [Design]",
+              "RelativeToolTip": "AccountForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T00:20:17.331Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "OrderDetailsForm.Designer.cs",
+              "DocumentMoniker": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\Lab_Advanced_Command-20251022T123413Z-1-001\\Lab_Advanced_Command\\OrderDetailsForm.Designer.cs",
+              "RelativeDocumentMoniker": "OrderDetailsForm.Designer.cs",
+              "ToolTip": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\Lab_Advanced_Command-20251022T123413Z-1-001\\Lab_Advanced_Command\\OrderDetailsForm.Designer.cs",
+              "RelativeToolTip": "OrderDetailsForm.Designer.cs",
+              "ViewState": "AgIAAKUAAAAAAAAAAAAAwMAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T00:09:30.698Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "OrderDetailsForm.cs",
+              "DocumentMoniker": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\Lab_Advanced_Command-20251022T123413Z-1-001\\Lab_Advanced_Command\\OrderDetailsForm.cs",
+              "RelativeDocumentMoniker": "OrderDetailsForm.cs",
+              "ToolTip": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\Lab_Advanced_Command-20251022T123413Z-1-001\\Lab_Advanced_Command\\OrderDetailsForm.cs",
+              "RelativeToolTip": "OrderDetailsForm.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAowGMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T00:09:22.938Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OrderDetailsForm.cs [Design]",
+              "DocumentMoniker": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\Lab_Advanced_Command-20251022T123413Z-1-001\\Lab_Advanced_Command\\OrderDetailsForm.cs",
+              "RelativeDocumentMoniker": "OrderDetailsForm.cs",
+              "ToolTip": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\Lab_Advanced_Command-20251022T123413Z-1-001\\Lab_Advanced_Command\\OrderDetailsForm.cs [Design]",
+              "RelativeToolTip": "OrderDetailsForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T00:09:20.402Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "OrdersForm.Designer.cs",
+              "DocumentMoniker": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\Lab_Advanced_Command-20251022T123413Z-1-001\\Lab_Advanced_Command\\OrdersForm.Designer.cs",
+              "RelativeDocumentMoniker": "OrdersForm.Designer.cs",
+              "ToolTip": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\Lab_Advanced_Command-20251022T123413Z-1-001\\Lab_Advanced_Command\\OrdersForm.Designer.cs",
+              "RelativeToolTip": "OrdersForm.Designer.cs",
+              "ViewState": "AgIAAIEAAAAAAAAAAAAAAOsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T23:58:25.715Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "CategoryForm.Designer.cs",
+              "DocumentMoniker": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\Lab_Advanced_Command-20251022T123413Z-1-001\\Lab_Advanced_Command\\CategoryForm.Designer.cs",
+              "RelativeDocumentMoniker": "CategoryForm.Designer.cs",
+              "ToolTip": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\Lab_Advanced_Command-20251022T123413Z-1-001\\Lab_Advanced_Command\\CategoryForm.Designer.cs",
+              "RelativeToolTip": "CategoryForm.Designer.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAkwEQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T23:30:05.556Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CategoryForm.cs",
+              "DocumentMoniker": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\Lab_Advanced_Command-20251022T123413Z-1-001\\Lab_Advanced_Command\\CategoryForm.cs",
+              "RelativeDocumentMoniker": "CategoryForm.cs",
+              "ToolTip": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\Lab_Advanced_Command-20251022T123413Z-1-001\\Lab_Advanced_Command\\CategoryForm.cs",
+              "RelativeToolTip": "CategoryForm.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAswEgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T23:30:01.98Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CategoryForm.cs [Design]",
+              "DocumentMoniker": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\Lab_Advanced_Command-20251022T123413Z-1-001\\Lab_Advanced_Command\\CategoryForm.cs",
+              "RelativeDocumentMoniker": "CategoryForm.cs",
+              "ToolTip": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\Lab_Advanced_Command-20251022T123413Z-1-001\\Lab_Advanced_Command\\CategoryForm.cs [Design]",
+              "RelativeToolTip": "CategoryForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T22:42:13.601Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "FoodInfoForm.cs",
+              "DocumentMoniker": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\Lab_Advanced_Command-20251022T123413Z-1-001\\Lab_Advanced_Command\\FoodInfoForm.cs",
+              "RelativeDocumentMoniker": "FoodInfoForm.cs",
+              "ToolTip": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\Lab_Advanced_Command-20251022T123413Z-1-001\\Lab_Advanced_Command\\FoodInfoForm.cs",
+              "RelativeToolTip": "FoodInfoForm.cs",
+              "ViewState": "AgIAAMEAAAAAAAAAAAAowOAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T12:35:20.404Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FoodInfoForm.cs [Design]",
+              "DocumentMoniker": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\Lab_Advanced_Command-20251022T123413Z-1-001\\Lab_Advanced_Command\\FoodInfoForm.cs",
+              "RelativeDocumentMoniker": "FoodInfoForm.cs",
+              "ToolTip": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\Lab_Advanced_Command-20251022T123413Z-1-001\\Lab_Advanced_Command\\FoodInfoForm.cs [Design]",
+              "RelativeToolTip": "FoodInfoForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T12:35:20.993Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\Lab_Advanced_Command-20251022T123413Z-1-001\\Lab_Advanced_Command\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\Lab_Advanced_Command-20251022T123413Z-1-001\\Lab_Advanced_Command\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwBIAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T12:35:21.001Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\Lab_Advanced_Command-20251022T123413Z-1-001\\Lab_Advanced_Command\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Form1.Designer.cs",
+              "ToolTip": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\Lab_Advanced_Command-20251022T123413Z-1-001\\Lab_Advanced_Command\\Form1.Designer.cs",
+              "RelativeToolTip": "Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T12:35:21.004Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\Lab_Advanced_Command-20251022T123413Z-1-001\\Lab_Advanced_Command\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\Lab_Advanced_Command-20251022T123413Z-1-001\\Lab_Advanced_Command\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAmwGQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T12:35:21.006Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\Lab_Advanced_Command-20251022T123413Z-1-001\\Lab_Advanced_Command\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\V\u01B0\u01A1ng\\Nam 3 Ki 1\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\Lab_Advanced_Command-20251022T123413Z-1-001\\Lab_Advanced_Command\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T12:35:21.008Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
